@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a formal ontologist and modeler, with a speciality in ontology and knowledge organization systems (e.g. terminologies) for [astronautics](https://ontospace.wordpress.com) and related disciplines. 
+I'm a formal ontologist and modeler, with a speciality in knowledge organization systems (e.g. terminologies, ontologies) for [astronautics](https://ontospace.wordpress.com) and related disciplines. 
 I can help you and your team understand essential concepts (and misinformation) in ontology development, conceptual modeling, and knowledge representation and reasoning. I'm available for hire, and actively open to work and study opportunities. Ethical and methodological topics in ontology design, engineering and use is a particular topic of interest. I'm also a philosopher by degree, and a certified mariner with experience training and volunteering in water search & rescue (a career goal).  
 
 <!--

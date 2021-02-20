@@ -10,6 +10,8 @@ In the meantime, I can help you understand concepts (and clearup misinformation)
 
 Contact me at rrovetto[at]terpalum[dot]umd[dot]edu 💬  Thanks for visiting.
 
+All content is ©2011-2021, Robert John Rovetto. All right reserved. Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required. No warranty. No liability.
+
 <!--
 **rrovetto/rrovetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

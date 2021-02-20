@@ -6,7 +6,7 @@ In the meantime, I can help you understand concepts (and clearup misinformation)
 * [Ontology Tutoring service](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s7f4dbc7d873cce380b7f73062d5d72f619fe042a)
 * [Ontology Talks/Lecture service](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s218822e77fee416ed3085be8eda045d6015d6d24)
 
-* If you find value in my work and projects (all in spare time since 2011), please consider [donating here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
+* If you find value in my work and projects, please [donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). All have been in spare time, to date.
 
 Contact me at rrovetto[at]terpalum[dot]umd[dot]edu 💬  Thanks for visiting.
 

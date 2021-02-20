@@ -3,6 +3,9 @@ In the meantime, I can help you understand concepts (and clearup misinformation)
 
 **I'm available for hire** ([see ontology service list (PPT)](https://www.slideshare.net/RobertRovetto/ontology-services-238070099)), and also actively searching for a PhD studensthip opportunity. 
 * [Purchase services at this link](https://tinyurl.com/yas7trzy), or [schedule a work partnership meeting here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/sb83f723d7838e4484783cc5a1c675f0e6eedf99d).
+* [Ontology Tutoring service](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s7f4dbc7d873cce380b7f73062d5d72f619fe042a)
+* [Ontology Talks/Lecture service](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s218822e77fee416ed3085be8eda045d6015d6d24)
+
 * If you find value in my work and projects (all in spare time since 2011), please consider [donating here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
 
 Contact me at rrovetto[at]terpalum[dot]umd[dot]edu 💬  Thanks for visiting.

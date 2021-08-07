@@ -1,8 +1,8 @@
 **Hi :smiley:** - I'm a formal ontologist, terminologist, and conceptual data modeler with 22 publications. I serve in semantic/ontology, aerospace, and (inter)national standards organizations. I can help **clarify complex concepts** in formal, philosophical and applied ontology development and use, as well as semantic and knowledge modeling. I will help create or improve your terminologies, ontologies, and metadata. Specialties are ontology & terminology for [spaceflight](https://ontospace.wordpress.com) :earth_americas:, as well as _abstract (or foundational/upper) ontology_, and _[ethical](https://github.com/rrovetto/Ethical-Ontology-Development), methodological, and foundational topics_ in ontology/semantic modeling. In my free time I pursue service & training in water search & rescue, and am a skilled amateur digital photography. [See this ontology education services PPT](https://www.slideshare.net/RobertRovetto/ontology-courses-education). 
 
-**I'm actively open to both study (PhD studentship) and employment opportunities, worldwide.**
+**I'm actively open to both study (PhD studentship) and employment opportunities, worldwide.** (authorized to work in US, EU, UK)
 
-**Available for Hire** ([see ontology service list (PPT)](https://www.slideshare.net/RobertRovetto/ontology-services-238070099)) (authorized to work in US, EU, UK)**.
+**Available for Hire** ([see ontology service list (PPT)](https://www.slideshare.net/RobertRovetto/ontology-services-238070099)). Click the links to purchase/hire. **.
 * [Ontology consulting](https://tinyurl.com/34u9w6wx)
 * [Purchase services here](https://tinyurl.com/yas7trzy), or [Schedule a Meeting here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/sb83f723d7838e4484783cc5a1c675f0e6eedf99d).
 * [Ontology 101 Tutoring](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s7f4dbc7d873cce380b7f73062d5d72f619fe042a)

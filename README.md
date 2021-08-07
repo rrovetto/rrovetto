@@ -7,6 +7,7 @@
 * [Ontology Consulting](https://tinyurl.com/34u9w6wx)
 * [Ontology 101 Tutoring](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s7f4dbc7d873cce380b7f73062d5d72f619fe042a)
 * [Ontology Talks/Lectures](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s218822e77fee416ed3085be8eda045d6015d6d24)
+
 [Donate, be a Patron, or Sponsor here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/), if you find value in my work and projects. All have been in spare time, to date.
 
 **Contact me** at rrovetto[at]terpalum[dot]umd[dot]edu 💬  Thanks for visiting.

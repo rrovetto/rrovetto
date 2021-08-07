@@ -2,9 +2,9 @@
 
 **I'm actively open to both study (PhD studentship) and employment opportunities, worldwide.** (authorized to work in US, EU, UK)
 
-**Available for Hire** - Click the following links to purchase services, or schedule a meeting. ([List of ontology service in PPT presentation](https://www.slideshare.net/RobertRovetto/ontology-services-238070099)).**.
-* [Ontology consulting](https://tinyurl.com/34u9w6wx)
-* [Purchase services here](https://tinyurl.com/yas7trzy), or [Schedule a Meeting here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/sb83f723d7838e4484783cc5a1c675f0e6eedf99d).
+**Available for Hire** - _Click the following links to purchase services, or schedule a meeting._ ([List of ontology service in PPT presentation](https://www.slideshare.net/RobertRovetto/ontology-services-238070099)).
+* [Purchase all services here](https://tinyurl.com/yas7trzy), or [Schedule a Meeting here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/sb83f723d7838e4484783cc5a1c675f0e6eedf99d).
+* [Ontology Consulting](https://tinyurl.com/34u9w6wx)
 * [Ontology 101 Tutoring](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s7f4dbc7d873cce380b7f73062d5d72f619fe042a)
 * [Ontology Talks/Lectures](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s218822e77fee416ed3085be8eda045d6015d6d24)
 * [Donate, be a Patron, or Sponsor here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/), if you find value in my work and projects. All have been in spare time, to date.

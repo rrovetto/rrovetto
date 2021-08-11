@@ -1,4 +1,4 @@
-**Hi :smiley:** - I'm a formal ontologist, conceptual data modeler (MBSE), and terminologist with 22 publications. I serve in semantic web, ontology, aerospace, and (inter)national standards organizations. I can help **clarify complex concepts** in formal, philosophical and applied ontology development and use, as well as semantic and knowledge modeling. I can help **create or improve terminologies, ontologies, and metadata**. Specialties are (1) ontology & terminology for [spaceflight](https://ontospace.wordpress.com) :earth_americas:, (2)  _generic (or foundational/upper) ontology_, and (3) _[ethical](https://github.com/rrovetto/Ethical-Ontology-Development), methodological, and foundational topics_ in ontology/semantic modeling. I also pursue service & training in water search & rescue ([services](https://www.dropbox.com/s/cgl1npz51amp3lm/BoatingServices_Rovetto_Apr2020.pdf?dl=0)), and digital [photography](https://tinyurl.com/y3k34cfb).
+**Hi :smiley:** - I'm a formal ontologist, conceptual data modeler (MBSE), and terminologist with 22 publications. I serve in semantic web, ontology, aerospace, and (inter)national standards organizations. I can help **clarify complex concepts** in formal, philosophical and applied ontology development and use, as well as semantic and knowledge modeling. I can help **create or improve terminologies, ontologies, and metadata**. Specialties are (1) ontology & terminology for [spaceflight](https://ontospace.wordpress.com) :earth_americas:, (2)  _generic (or foundational/upper) ontology_, and (3) _[ethical](https://github.com/rrovetto/Ethical-Ontology-Development), methodological and fundamental topics_ in ontology/semantic modeling. I also pursue service & training in water search & rescue ([services](https://www.dropbox.com/s/cgl1npz51amp3lm/BoatingServices_Rovetto_Apr2020.pdf?dl=0)), and digital [photography](https://tinyurl.com/y3k34cfb).
 
 **I'm actively open to both study (PhD studentship) and employment opportunities, worldwide.** (authorized to work in US, EU)
 
@@ -11,7 +11,7 @@
 
 [**Donate, be a Patron, or Sponsor here**](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/), if you find value in my work and projects.
 
-**Contact me** at rrovetto[at]terpalum[dot]umd[dot]edu 💬  Thanks for visiting.
+**📫 Contact Me** at rrovetto[at]terpalum[dot]umd[dot]edu 💬  Thanks for visiting.
 
 ©2011-2021, Robert John Rovetto. All right reserved. 
 Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required. No warranty. No liability.

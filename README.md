@@ -9,9 +9,9 @@
 * [Ontology Talks/Lectures](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s218822e77fee416ed3085be8eda045d6015d6d24)
 ([Read this list of ontology courses in a PPT presentation](https://www.slideshare.net/RobertRovetto/ontology-courses-education), and ([this list of ontology services in PPT](https://www.slideshare.net/RobertRovetto/ontology-services-238070099)).
 
-⚡[**Donate, be a Patron, or Sponsor here**](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/), if you find value in my work and projects.
+⚡[**DONATE, be a Patron, or Sponsor here**](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/), if you find value in my work and projects.
 
-**📫 Contact Me** at rrovetto[at]terpalum[dot]umd[dot]edu 💬  Thanks for visiting.
+**📫 CONTACT ME** at rrovetto[at]terpalum[dot]umd[dot]edu 💬  Thanks for visiting.
 
 ©2011-2021, Robert John Rovetto. All right reserved. 
 Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required. No warranty. No liability. No claims to completeness.

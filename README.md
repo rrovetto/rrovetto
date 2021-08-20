@@ -1,5 +1,6 @@
 :smiley: - I'm a formal ontologist, conceptual data modeler (e.g., MBSE), and terminologist with 22 [publications](https://orcid.org/0000-0003-3835-7817). I serve in semantic web, ontology, aerospace, maritime, and (inter)national standards orgs. I can help **clarify complex concepts** in formal, philosophical and computational ontology development and use, as well as semantic and knowledge modeling. I can help **create or improve terminologies, ontologies, and metadata**. Specialties are (1) ontology & terminology for [spaceflight](https://ontospace.wordpress.com) :earth_americas:, (2)  _generic (or foundational/upper) ontology_, and (3) _[ethical](https://github.com/rrovetto/Ethical-Ontology-Development), methodological and fundamental topics_ in ontology/semantic modeling. I also pursue service & training in water search & rescue ([services list](https://www.dropbox.com/s/cgl1npz51amp3lm/BoatingServices_Rovetto_Apr2020.pdf?dl=0)), and digital [photography](https://tinyurl.com/y3k34cfb).
 
+**The following projects in these GitHub repositories NEED funding or an employment or study opportunity to continue. Please contact to offer support.**
 **Actively open to both study (PhD studentship) and employment opportunities, worldwide.** (authorized to work in US, EU)
 
 **FOR HIRE** - Click the following links to purchase services, or schedule a meeting. 

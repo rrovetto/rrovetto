@@ -4,7 +4,7 @@
 **Actively open to study (PhD studentship) and employment opportunities, worldwide.** (authorized to work in US, EU)
 
 **FOR HIRE** - Click the following links to purchase services, or schedule a meeting. 
-* [Purchase all services or products here](https://tinyurl.com/yas7trzy),  or  [Schedule a Meeting here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/sb83f723d7838e4484783cc5a1c675f0e6eedf99d).
+* [Purchase all services or products here](https://tinyurl.com/yas7trzy),  [Purchase Posters and Presenations here](https://ontospace.wordpress.com/purchase-poster-or-presentation-documents/)  and  [Schedule a Meeting here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/sb83f723d7838e4484783cc5a1c675f0e6eedf99d).
 * [Ontology Consulting](https://tinyurl.com/34u9w6wx)
 * [Ontology 101 Tutoring](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s7f4dbc7d873cce380b7f73062d5d72f619fe042a)
 * [Ontology Talks/Lectures](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s218822e77fee416ed3085be8eda045d6015d6d24)

@@ -4,3 +4,5 @@
 - Mentioned in [PPT presentaiton by NASA's Dr.D.A. O'Neil](https://drive.google.com/file/d/0Bz94QYIr9g9FSXNMb1NnUXlWOEk/view?resourcekey=0-US5R4C2c4ogfwSOUfV4aZA)
 - Mentioned at time-index 01:32 in [Presentation session during the EU's ENDORSE Data conference](https://op.europa.eu/en/web/endorse/join-us-live)
 - Listed in presenters list on [EU ENDORSE data conference](https://op.europa.eu/en/web/endorse/speakers-corner) 
+- Paper description on [IAF website](https://iafastro.directory/iac/paper/id/40148/summary/) 
+- Winner's list for [ESIP 2020 FundingFriday competition](https://wiki.esipfed.org/FUNding_Friday_Projects)

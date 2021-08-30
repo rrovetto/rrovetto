@@ -6,3 +6,6 @@
 - Listed in presenters list on [EU ENDORSE data conference](https://op.europa.eu/en/web/endorse/speakers-corner) 
 - Paper description on [IAF website](https://iafastro.directory/iac/paper/id/40148/summary/) 
 - Winner's list for [ESIP 2020 FundingFriday competition](https://wiki.esipfed.org/FUNding_Friday_Projects)
+- Profile page on the [ESIP 2020 Summer Meeting website](https://2020esipsummermeeting.sched.com/robertrovetto)
+- Mentioned in [PPT presentation](https://profs.info.uaic.ro/~busaco/teach/courses/wade/presentations/web12SemanticWeb-InginerieOntologica-AliniereaOntologiilor_UtilizariPragmatice.pdf)
+- Mentioned in [2021 Report](https://elib.dlr.de/141454/1/B%C3%B6ning_TheCurrent.pdf) on page 32 of "The Current State of Research and Technology of Digitalization in the Space Industry" 

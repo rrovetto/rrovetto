@@ -15,3 +15,5 @@
 - [ORCID profle](https://orcid.org/0000-0003-3835-7817)
 - Contributions to the [ontology list on Protege webpage](https://protegewiki.stanford.edu/wiki/Protege_Ontology_Library)
 - Mentioned in contrubtion to [Hozo ontology editor manual](http://www.hozo.jp/)
+- ACknowledgements section of published papers
+-  http://ontology.buffalo.edu/smith/articles/Material_Entities.pdf

@@ -36,3 +36,4 @@
 - Listed as presenter on [2016 AMOS conference](http://toc.proceedings.com/32549webtoc.pdf)
 - Listed as organizer of event on [event website](https://esao2021.inf.unibz.it/)
 - In Magazine article on [webpage](https://issuu.com/secondmuse/docs/nasa-datanauts-2017)
+- [2020 ENDORSE conference Presentation Schedule](https://op.europa.eu/documents/7525478/7870420/Day3.pdf/98d3b077-ad3a-bbde-77a6-9e0c8f5d540f?t=1611672836710&text-align:%20right;download=tr)

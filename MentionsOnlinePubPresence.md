@@ -35,3 +35,4 @@
 - Paper description on [IAF website](https://iafastro.directory/iac/archive/browse/IAC-17/D5/2/40147/)
 - Listed as presenter on [2016 AMOS conference](http://toc.proceedings.com/32549webtoc.pdf)
 - Listed as organizer of event on [event website](https://esao2021.inf.unibz.it/)
+- In Magazine article on [webpage](https://issuu.com/secondmuse/docs/nasa-datanauts-2017)

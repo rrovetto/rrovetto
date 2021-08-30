@@ -15,7 +15,7 @@
 - Mentioned in contrubtion to [Hozo ontology editor manual](http://www.hozo.jp/)
 - https://docs.google.com/document/d/1_lKE8kAmFfi12_TBrDs1COMDPXDQGByKJZAaBwW5xVM/edit#!
 - Mentioned as contributor to [BFO 2.0 Reference Document](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjuwpj60NjyAhWCRDABHQsnDEI4PBAWegQICxAB&url=https%3A%2F%2Fraw.githubusercontent.com%2FBFO-ontology%2FBFO%2Fv2.0%2FBFO2-Reference.docx&usg=AOvVaw2WP7Tmp8UQ5z32VaUb3TKy)
-- In ("Towards a Unified Definition of Function")[https://books.google.com/books?id=dNvvAgAAQBAJ&pg=PA116&lpg=PA116&dq=robert+rovetto+ontology&source=bl&ots=YBi9iYB-7B&sig=ACfU3U0FKUCPbwVkflQ9fSHVqamdBQ3PXQ&hl=en&sa=X&ved=2ahUKEwiqvMr81djyAhXjkOAKHZ5jAig4UBDoAXoECAIQAw#v=onepage&q=robert%20rovetto%20ontology&f=false]
+- In ["Towards a Unified Definition of Function"](https://books.google.com/books?id=dNvvAgAAQBAJ&pg=PA116&lpg=PA116&dq=robert+rovetto+ontology&source=bl&ots=YBi9iYB-7B&sig=ACfU3U0FKUCPbwVkflQ9fSHVqamdBQ3PXQ&hl=en&sa=X&ved=2ahUKEwiqvMr81djyAhXjkOAKHZ5jAig4UBDoAXoECAIQAw#v=onepage&q=robert%20rovetto%20ontology&f=false)
 
 ### In PPT presentations
 - Mentioned in [PPT presentaiton by NASA's Dr.D.A. O'Neil](https://drive.google.com/file/d/0Bz94QYIr9g9FSXNMb1NnUXlWOEk/view?resourcekey=0-US5R4C2c4ogfwSOUfV4aZA)

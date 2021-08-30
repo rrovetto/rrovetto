@@ -16,4 +16,5 @@
 - Contributions to the [ontology list on Protege webpage](https://protegewiki.stanford.edu/wiki/Protege_Ontology_Library)
 - Mentioned in contrubtion to [Hozo ontology editor manual](http://www.hozo.jp/)
 - ACknowledgements section of published papers
--  http://ontology.buffalo.edu/smith/articles/Material_Entities.pdf
+-   http://ontology.buffalo.edu/smith/articles/Material_Entities.pdf
+-   https://web.corral.tacc.utexas.edu/MOST/Walls_AMOS_20160915.pdf

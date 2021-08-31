@@ -10,7 +10,7 @@
 * [Ontology Talks/Lectures](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s218822e77fee416ed3085be8eda045d6015d6d24)
 ([Read this list of ontology courses in a PPT presentation](https://www.slideshare.net/RobertRovetto/ontology-courses-education), and ([this list of ontology services in PPT](https://www.slideshare.net/RobertRovetto/ontology-services-238070099)).
 
-⚡[**DONATE, be a Patron, or Sponsor here**](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/), if you find value in my work and projects.
+⚡If you find value in my work, projects, or service-to-disciplines, please [**DONATE, be a Patron, or Sponsor here**](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
 
 **📫 [CONTACT ME](https://ontospace.wordpress.com/contact/)**  rrovetto[at]terpalum[dot]umd[dot]edu 💬  -- Thanks for visiting.
 

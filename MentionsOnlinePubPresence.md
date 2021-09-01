@@ -10,12 +10,12 @@
 - Mentioned in [2021 Report](https://elib.dlr.de/141454/1/B%C3%B6ning_TheCurrent.pdf) on page 32 of "The Current State of Research and Technology of Digitalization in the Space Industry" 
 
 ### In acknowledgements of publicaitons
-- http://ontology.buffalo.edu/smith/articles/Material_Entities.pdf
-- https://web.corral.tacc.utexas.edu/MOST/Walls_AMOS_20160915.pdf
-- Mentioned in contrubtion to [Hozo ontology editor manual](http://www.hozo.jp/)
-- https://docs.google.com/document/d/1_lKE8kAmFfi12_TBrDs1COMDPXDQGByKJZAaBwW5xVM/edit#!
-- Mentioned as contributor to [BFO 2.0 Reference Document](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjuwpj60NjyAhWCRDABHQsnDEI4PBAWegQICxAB&url=https%3A%2F%2Fraw.githubusercontent.com%2FBFO-ontology%2FBFO%2Fv2.0%2FBFO2-Reference.docx&usg=AOvVaw2WP7Tmp8UQ5z32VaUb3TKy)
-- In ["Towards a Unified Definition of Function"](https://books.google.com/books?id=dNvvAgAAQBAJ&pg=PA116&lpg=PA116&dq=robert+rovetto+ontology&source=bl&ots=YBi9iYB-7B&sig=ACfU3U0FKUCPbwVkflQ9fSHVqamdBQ3PXQ&hl=en&sa=X&ved=2ahUKEwiqvMr81djyAhXjkOAKHZ5jAig4UBDoAXoECAIQAw#v=onepage&q=robert%20rovetto%20ontology&f=false)
+- Contrubtion to and English editing of [Hozo ontology editor manual](http://www.hozo.jp/)
+- Input to academic paper on formal ontology ["Towards a Unified Definition of Function"](https://books.google.com/books?id=dNvvAgAAQBAJ&pg=PA116&lpg=PA116&dq=robert+rovetto+ontology&source=bl&ots=YBi9iYB-7B&sig=ACfU3U0FKUCPbwVkflQ9fSHVqamdBQ3PXQ&hl=en&sa=X&ved=2ahUKEwiqvMr81djyAhXjkOAKHZ5jAig4UBDoAXoECAIQAw#v=onepage&q=robert%20rovetto%20ontology&f=false)
+- Input to [academic paper on formal ontology](http://ontology.buffalo.edu/smith/articles/Material_Entities.pdf)
+- Input to [academic paper on spaceflight and modeling](https://web.corral.tacc.utexas.edu/MOST/Walls_AMOS_20160915.pdf)
+- Contributor to an information ontology https://docs.google.com/document/d/1_lKE8kAmFfi12_TBrDs1COMDPXDQGByKJZAaBwW5xVM/edit#!
+- Contributor to technical document of information ontology [BFO 2.0 Reference Document](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjuwpj60NjyAhWCRDABHQsnDEI4PBAWegQICxAB&url=https%3A%2F%2Fraw.githubusercontent.com%2FBFO-ontology%2FBFO%2Fv2.0%2FBFO2-Reference.docx&usg=AOvVaw2WP7Tmp8UQ5z32VaUb3TKy)
 
 ### In PPT presentations
 - Mentioned in [PPT presentaiton by NASA's Dr.D.A. O'Neil](https://drive.google.com/file/d/0Bz94QYIr9g9FSXNMb1NnUXlWOEk/view?resourcekey=0-US5R4C2c4ogfwSOUfV4aZA)

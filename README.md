@@ -2,7 +2,7 @@
 
 I can help **clarify complex concepts** in formal, philosophical and computational ontology, and semantic/knowledge modeling. I can help **create or improve terminologies, ontologies, and metadata**. Specialties are (1) ontology & terminology for [spaceflight](https://ontospace.wordpress.com) :earth_americas:, (2)  _generic (or foundational/upper) ontology_, and (3) _[ethical](https://github.com/rrovetto/Ethical-Ontology-Development), methodological and fundamental topics_ in ontology development & use. I also pursue service & training in water search & rescue ([services list](https://www.dropbox.com/s/cgl1npz51amp3lm/BoatingServices_Rovetto_Apr2020.pdf?dl=0)), and digital [photography](https://tinyurl.com/y3k34cfb). 
 
-**YOUR SUPPORT: The projects in these GitHub repositories need funding, or a work or study opportunity, to sustain. Please contact me to offer support or opportunities.**
+**YOUR SUPPORT:** The efforts in these GitHub repositories need funding, or a work or study opportunity, to sustain. Please [contact me](https://ontospace.wordpress.com/contact/) to offer support or opportunities.
 **Actively open to study (PhD studentship), formal partnerships, & employment opportunities, worldwide.** (authorized to work in US, EU). 
 
 **FOR HIRE** - Click the following links to purchase services, products, or to schedule a meeting. 

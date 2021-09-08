@@ -24,11 +24,8 @@
 - Mentioned in [French Philosophy of Science review](https://ojs.uclouvain.be/index.php/latosensu/article/view/3213/2293) See also [this link](https://ojs.uclouvain.be/index.php/latosensu/article/view/3213) and [this link](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiUtdel1djyAhXiSDABHQcDDm44RhAWegQICRAB&url=https%3A%2F%2Fojs.uclouvain.be%2Findex.php%2Flatosensu%2Farticle%2Fdownload%2F3213%2F2293%2F&usg=AOvVaw3yJL4Syauhh_cp3hdKuOB4)
 
 ### On Websites
-- Listed as organizer of event on [event website](https://esao2021.inf.unibz.it/)
+- Listed as an organizer of event on [event website](https://esao2021.inf.unibz.it/)
 - Contributions to the [ontology list on Protege webpage](https://protegewiki.stanford.edu/wiki/Protege_Ontology_Library)
-- [CODER profile webpage](http://www.coder.umd.edu/node/287)
-- [GoogleScholar](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra)
-- [ORCID profle](https://orcid.org/0000-0003-3835-7817)
 - Listed in presenters list on [EU ENDORSE data conference](https://op.europa.eu/en/web/endorse/speakers-corner) 
 - [2020 ENDORSE conference Presentation Schedule](https://op.europa.eu/documents/7525478/7870420/Day3.pdf/98d3b077-ad3a-bbde-77a6-9e0c8f5d540f?t=1611672836710&text-align:%20right;download=tr)
 - Winner's list for [ESIP 2020 FundingFriday competition](https://wiki.esipfed.org/FUNding_Friday_Projects)
@@ -37,3 +34,8 @@
 - Paper description on [IAF website](https://iafastro.directory/iac/archive/browse/IAC-17/D5/2/40147/)
 - Listed as presenter on [2016 AMOS conference](http://toc.proceedings.com/32549webtoc.pdf)
 - In [magazine article on webpage](https://issuu.com/secondmuse/docs/nasa-datanauts-2017)
+
+#### Profile Pages
+- [CODER profile webpage](http://www.coder.umd.edu/node/287)
+- [GoogleScholar](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra)
+- [ORCID profle](https://orcid.org/0000-0003-3835-7817)

@@ -1,4 +1,4 @@
-## Public Mentions
+## Public Mentions (non-exhaustive list)
 
 ### Videos & Live Presentations
 - Mentioned at time-indices 6:12-7:35, 11:55 and 21:05 during the [NASA Datanauts Kick Off Meeting](https://www.youtube.com/watch?v=6Fq1M8986yM&feature=youtu.be)
@@ -12,28 +12,28 @@
 ### In acknowledgements of publicaitons
 - Contrubtion to and English editing of [Hozo ontology editor manual](http://www.hozo.jp/)
 - Input to academic paper on formal ontology ["Towards a Unified Definition of Function"](https://books.google.com/books?id=dNvvAgAAQBAJ&pg=PA116&lpg=PA116&dq=robert+rovetto+ontology&source=bl&ots=YBi9iYB-7B&sig=ACfU3U0FKUCPbwVkflQ9fSHVqamdBQ3PXQ&hl=en&sa=X&ved=2ahUKEwiqvMr81djyAhXjkOAKHZ5jAig4UBDoAXoECAIQAw#v=onepage&q=robert%20rovetto%20ontology&f=false)
-- Input to [academic paper on formal ontology](http://ontology.buffalo.edu/smith/articles/Material_Entities.pdf)
 - Input to [academic paper on spaceflight and modeling](https://web.corral.tacc.utexas.edu/MOST/Walls_AMOS_20160915.pdf)
+- Input to [academic paper on formal ontology](http://ontology.buffalo.edu/smith/articles/Material_Entities.pdf)
 - Contributor to an information ontology https://docs.google.com/document/d/1_lKE8kAmFfi12_TBrDs1COMDPXDQGByKJZAaBwW5xVM/edit#!
-- Contributor to technical document of information ontology [BFO 2.0 Reference Document](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjuwpj60NjyAhWCRDABHQsnDEI4PBAWegQICxAB&url=https%3A%2F%2Fraw.githubusercontent.com%2FBFO-ontology%2FBFO%2Fv2.0%2FBFO2-Reference.docx&usg=AOvVaw2WP7Tmp8UQ5z32VaUb3TKy)
+- Contributor to technical document of a [generic/upper information ontology](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjuwpj60NjyAhWCRDABHQsnDEI4PBAWegQICxAB&url=https%3A%2F%2Fraw.githubusercontent.com%2FBFO-ontology%2FBFO%2Fv2.0%2FBFO2-Reference.docx&usg=AOvVaw2WP7Tmp8UQ5z32VaUb3TKy)
 
-### In PPT presentations
+### In PowerPoint (PPT) presentations
 - Mentioned in [PPT presentaiton by NASA's Dr.D.A. O'Neil](https://drive.google.com/file/d/0Bz94QYIr9g9FSXNMb1NnUXlWOEk/view?resourcekey=0-US5R4C2c4ogfwSOUfV4aZA)
-- Mentioned in [PPT presentation slide 111](https://profs.info.uaic.ro/~busaco/teach/courses/wade/presentations/web12SemanticWeb-InginerieOntologica-AliniereaOntologiilor_UtilizariPragmatice.pdf)
-- Mentioned in religious ontology [PPT](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjuwpj60NjyAhWCRDABHQsnDEI4PBAWegQICRAB&url=https%3A%2F%2Fuser.medunigraz.at%2Fstefan.schulz%2Fpresentations%2F2018_Towards_an_ontology_of_religious_belief.pptx&usg=AOvVaw08pUTGzzjZ5tBYrsComwLf)
-- Mentioned in (PPT)(https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiUtdel1djyAhXiSDABHQcDDm44RhAWegQICRAB&url=https%3A%2F%2Fojs.uclouvain.be%2Findex.php%2Flatosensu%2Farticle%2Fdownload%2F3213%2F2293%2F&usg=AOvVaw3yJL4Syauhh_cp3hdKuOB4)
+- Mentioned in [Romanian PPT presentation slide 111](https://profs.info.uaic.ro/~busaco/teach/courses/wade/presentations/web12SemanticWeb-InginerieOntologica-AliniereaOntologiilor_UtilizariPragmatice.pdf)
+- Mentioned in [an ontology PPT](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjuwpj60NjyAhWCRDABHQsnDEI4PBAWegQICRAB&url=https%3A%2F%2Fuser.medunigraz.at%2Fstefan.schulz%2Fpresentations%2F2018_Towards_an_ontology_of_religious_belief.pptx&usg=AOvVaw08pUTGzzjZ5tBYrsComwLf)
+- Mentioned in [French Philosophy of Science review](https://ojs.uclouvain.be/index.php/latosensu/article/view/3213/2293) See also [this link](https://ojs.uclouvain.be/index.php/latosensu/article/view/3213) and [this link](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiUtdel1djyAhXiSDABHQcDDm44RhAWegQICRAB&url=https%3A%2F%2Fojs.uclouvain.be%2Findex.php%2Flatosensu%2Farticle%2Fdownload%2F3213%2F2293%2F&usg=AOvVaw3yJL4Syauhh_cp3hdKuOB4)
 
 ### On Websites
+- Listed as organizer of event on [event website](https://esao2021.inf.unibz.it/)
 - Contributions to the [ontology list on Protege webpage](https://protegewiki.stanford.edu/wiki/Protege_Ontology_Library)
 - [CODER profile webpage](http://www.coder.umd.edu/node/287)
 - [GoogleScholar](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra)
 - [ORCID profle](https://orcid.org/0000-0003-3835-7817)
 - Listed in presenters list on [EU ENDORSE data conference](https://op.europa.eu/en/web/endorse/speakers-corner) 
-- Profile page on the [ESIP 2020 Summer Meeting website](https://2020esipsummermeeting.sched.com/robertrovetto)
+- [2020 ENDORSE conference Presentation Schedule](https://op.europa.eu/documents/7525478/7870420/Day3.pdf/98d3b077-ad3a-bbde-77a6-9e0c8f5d540f?t=1611672836710&text-align:%20right;download=tr)
 - Winner's list for [ESIP 2020 FundingFriday competition](https://wiki.esipfed.org/FUNding_Friday_Projects)
+- Profile page on the [ESIP 2020 Summer Meeting website](https://2020esipsummermeeting.sched.com/robertrovetto)
 - Paper description on [IAF website](https://iafastro.directory/iac/paper/id/40148/summary/) 
 - Paper description on [IAF website](https://iafastro.directory/iac/archive/browse/IAC-17/D5/2/40147/)
 - Listed as presenter on [2016 AMOS conference](http://toc.proceedings.com/32549webtoc.pdf)
-- Listed as organizer of event on [event website](https://esao2021.inf.unibz.it/)
-- In Magazine article on [webpage](https://issuu.com/secondmuse/docs/nasa-datanauts-2017)
-- [2020 ENDORSE conference Presentation Schedule](https://op.europa.eu/documents/7525478/7870420/Day3.pdf/98d3b077-ad3a-bbde-77a6-9e0c8f5d540f?t=1611672836710&text-align:%20right;download=tr)
+- In [magazine article on webpage](https://issuu.com/secondmuse/docs/nasa-datanauts-2017)

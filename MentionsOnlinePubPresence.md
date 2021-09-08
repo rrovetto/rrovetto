@@ -1,13 +1,14 @@
 ## Public Mentions (non-exhaustive list)
 
 ### Videos & Live Presentations
-- Mentioned at time-indices 6:12-7:35, 11:55 and 21:05 during the [NASA Datanauts Kick Off Meeting](https://www.youtube.com/watch?v=6Fq1M8986yM&feature=youtu.be)
-- Mentioned at time-index 01:32 in [Presentation session during the EU's ENDORSE Data conference](https://op.europa.eu/en/web/endorse/join-us-live)
-- At time-index 1:31:10 of a [Live presentation at ENDORSE data conference](https://www.youtube.com/watch?v=giWHWDfmo7Q) 
+- Mentioned during the [NASA Datanauts Kick Off Meeting](https://www.youtube.com/watch?v=6Fq1M8986yM&feature=youtu.be)  - Time-indices 6:12-7:35, 11:55 and 21:05
+- Mentioned in [Presentation session during the EU's ENDORSE Data conference](https://op.europa.eu/en/web/endorse/join-us-live) - Time-index 01:32 
+- [Live presentation at ENDORSE data conference](https://www.youtube.com/watch?v=giWHWDfmo7Q) - At time-index 1:31:10
 
-### In Reports
-- Listed in 2020 ANSI spaceflight meeting [PDF meeting report](https://share.ansi.org/Shared%20Documents/Standards%20Activities/Commercial%20Space%20Industry/December%207%2C%202020%20ANSI%20Informational%20Meeting%20-%20Standardization%20and%20the%20Commercial%20Space%20Industry/ANSI_Commercial_Space_Industry_Meeting_Report_120720.pdf)
+### In Reports, Manuals and Standards 
+- Listed in 2020 [ANSI](https://ansi.org/) spaceflight meeting [PDF meeting report](https://share.ansi.org/Shared%20Documents/Standards%20Activities/Commercial%20Space%20Industry/December%207%2C%202020%20ANSI%20Informational%20Meeting%20-%20Standardization%20and%20the%20Commercial%20Space%20Industry/ANSI_Commercial_Space_Industry_Meeting_Report_120720.pdf)
 - Mentioned in [2021 Report](https://elib.dlr.de/141454/1/B%C3%B6ning_TheCurrent.pdf) on page 32 of "The Current State of Research and Technology of Digitalization in the Space Industry" 
+- In [AIAA standards document on spacecraft systems engineering ontology](https://arc.aiaa.org/doi/book/10.2514/4.106286)
 
 ### In acknowledgements of publicaitons
 - Contrubtion to and English editing of [Hozo ontology editor manual](http://www.hozo.jp/)

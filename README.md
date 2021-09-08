@@ -17,7 +17,7 @@ Specialties are (1) ontology & terminology for [spaceflight](https://ontospace.w
 
 **📫 [CONTACT ME](https://ontospace.wordpress.com/contact/)**  rrovetto[at]terpalum[dot]umd[dot]edu 💬  -- Thanks for visiting.
 
-©2011-2021, Robert John Rovetto. All right reserved. 
+©2011-2021, Robert J. Rovetto. All right reserved. 
 All contact on this Github profile is not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required. No warranty. No liability. No claims to completeness. All content in this GitHub account is presented "AS IS". Author, owner, developer and copyright holder is not liable. All content, work and products are subject to revision.
 
 <!--

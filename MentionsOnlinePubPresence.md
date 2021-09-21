@@ -36,7 +36,9 @@ The following are public-facing documents, websites, and other media, that menti
 - Paper description on [IAF website](https://iafastro.directory/iac/archive/browse/IAC-17/D5/2/40147/)
 - Listed as presenter on [2016 AMOS conference](http://toc.proceedings.com/32549webtoc.pdf)
 - In [magazine article on webpage](https://issuu.com/secondmuse/docs/nasa-datanauts-2017)
-
+- [2013 Conference presentation on ontology of shapes and biomedical ontology](https://cindy.informatik.uni-bremen.de/cosy/events/shapes2/contributions/)
+- [2011 Conference presentation on ontology of shapes](https://cindy.informatik.uni-bremen.de/cosy/events/shapes/programme/)
+- 
 #### Profile Pages
 - [CODER profile webpage](http://www.coder.umd.edu/node/287)
 - [GoogleScholar](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra)

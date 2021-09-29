@@ -24,6 +24,7 @@ The following are public-facing documents, websites, and other media, that menti
 - Mentioned during the [NASA Datanauts Kick Off Meeting](https://www.youtube.com/watch?v=6Fq1M8986yM&feature=youtu.be)  - Time-indices 6:12-7:35, 11:55 and 21:05
 - Mentioned in [Presentation session during the EU's ENDORSE Data conference](https://op.europa.eu/en/web/endorse/join-us-live) - Time-index 01:32 
 - [Live presentation at ENDORSE data conference](https://www.youtube.com/watch?v=giWHWDfmo7Q) - At time-index 1:31:10
+- [Earth Science presentation](https://www.youtube.com/watch?v=uTOMYRPQtrs) At time-index approx. 9:07-9:10
 
 ### On Websites
 - Listed as an organizer of event on [event website](https://esao2021.inf.unibz.it/)

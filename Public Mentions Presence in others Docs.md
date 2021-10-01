@@ -39,8 +39,13 @@ The following are public-facing documents, websites, and other media, that menti
 - In [magazine article on webpage](https://issuu.com/secondmuse/docs/nasa-datanauts-2017)
 - [2013 Conference presentation on ontology of shapes and biomedical ontology](https://cindy.informatik.uni-bremen.de/cosy/events/shapes2/contributions/)
 - [2011 Conference presentation on ontology of shapes](https://cindy.informatik.uni-bremen.de/cosy/events/shapes/programme/)
-- 
+
 #### Profile Pages
 - [CODER profile webpage](http://www.coder.umd.edu/node/287)
 - [GoogleScholar](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra)
 - [ORCID profle](https://orcid.org/0000-0003-3835-7817)
+
+
+#### In Articles cited in text
+
+- [Bridging Mainstream and Formal Ontology: A Causality-Based Upper Ontology in Dietrich of Freiberg, Luis M. Augusto](https://media-exp1.licdn.com/dms/document/C4D1FAQHjQPisH4XMXg/feedshare-document-pdf-analyzed/0/1633077207767?e=1633176000&v=beta&t=xAxx2j8FbwuToNzoyL5TNauTgb6lawAzC5INBcOWQfQ)

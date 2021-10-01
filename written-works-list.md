@@ -1,4 +1,4 @@
-# List of my publications
+# List of my written works
 Topics: ontology development, symbolic logic, temporal logic, spaceflight and space policy, data modeling for space
 
 Proposals & Manuals

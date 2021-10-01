@@ -1,12 +1,13 @@
-List of my publications
+# List of my publications
+Topics: ontology development, symbolic logic, temporal logic, spaceflight and space policy, data modeling for space
 
+Proposals & Manuals
 - NASA Technical Memorandum: “An Ontology-Based Virtual Orrery” with Dr. Daniel A. O’Neil (2017-2021).
 - Grant Proposal (2018): “Ontology Engineering for Space Systems, Missions, and NASA Data”, NASA Fellowship Activity 2018, NASA Research Announcement NNH18ZHA003N. (Submitted only) [Ask about purchasing a copy]
 - Grant Proposal (2021) “Space Situational Awareness (SSA) Ontology for ESA’s SSA Programme” (submitted only) [Purchase Proposal in PDF] [Purchase Presentation]
 - White Paper Proposal (2019): “Big Data in Space: Improving Spaceflight Safety through Knowledge-based Approaches” with Dr. Joanne Luciano, University of Virgin Islands.
 
 In Journals & Conferences:
-
 - “An Ontological Architecture for Orbital Debris Data”, Rovetto, R.J. (2015), Earth Science Informatics, 9(1), 67-82. Paper (PDF).
 - “Preliminaries of a Space Situational Awareness Ontology”, [Purchase Presentation] with T.S. Kelso, In proceedings of 26th AIAA/AAS Space Flight Mechanics Meeting, Napa, California (2016). In Advances in the Astronautical Sciences, Univelt Inc.
 - “The Orbital Space Environment and Space Situational Awareness Domain Ontology – Towards an International Information System for Space Data“ [Purchase PDF here], Advanced Maui Optical and Space Surveillance Technologies Conference (AMOS) 2016. [Purchase Poster]
@@ -18,14 +19,17 @@ In Journals & Conferences:
 - “Ontologies – Creating Human-centered Taxonomies to Annotate Data”, in Data Discovery Magazine, Summer 2017 (page 15), ISSUU, SecondMuse. On NASA Site.
 - “Ontology-based Knowledge Management for Space Data”, at the 68th International Astronautical Congress (Sept 2017). Paper.
 - “Orbital Debris Ontology, Terminology, and Knowledge Modeling”, with T.S. Kelso, and D.A. O’Neil. 1st International Orbital Debris Conference. December 2019. On NASA TRS. In Journal of Space Safety Engineering (Sept, 2020).[Purchase Poster]
+
 - "Causality and the ontology of disease", RJ Rovetto, R Mizoguchi, Applied Ontology 10 (2), 79-105
 - "Newtonian Forces and causation: a dispositional account", A Barton, R Rovetto, R Mizoguchi, Formal Ontology in Information Systems, 157-170
+
 - "The Shape of Shapes: An Ontological Exploration". RJ Rovetto, in Proceedings of SHAPES 1.0: The Shape of Things - Interdisciplinary Workshop on Shapes 812
 - "Shaping up: The Phenotypic Quality Ontology and Cross Sections", RJ Rovetto in SHAPES 2.0: The Shape of Things - held at 4th World Congress and School on
 
 - "Presentism and the Problem of Singular Propositions about Non-Present Objects–Limitations of a Proposed Solution". RJ Rovetto, Polish Journal of Philosophy 8 (1), 53-66 (2014)
+
 - "The Human Being: Understanding Humanity through God and Reason", RJ Rovetto
-- 
+
 Space Policy & Space Traffic Management Papers
 - “The Essential Role of Human Spaceflight“, Space Policy, 29 (4), 225-228 (2013)
 - “Defending spaceflight – The echoes of Apollo“, Space Policy, 38, 68–78 (2016)

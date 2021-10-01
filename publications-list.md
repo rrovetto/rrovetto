@@ -18,6 +18,9 @@ In Journals & Conferences:
 - “Ontologies – Creating Human-centered Taxonomies to Annotate Data”, in Data Discovery Magazine, Summer 2017 (page 15), ISSUU, SecondMuse. On NASA Site.
 - “Ontology-based Knowledge Management for Space Data”, at the 68th International Astronautical Congress (Sept 2017). Paper.
 - “Orbital Debris Ontology, Terminology, and Knowledge Modeling”, with T.S. Kelso, and D.A. O’Neil. 1st International Orbital Debris Conference. December 2019. On NASA TRS. In Journal of Space Safety Engineering (Sept, 2020).[Purchase Poster]
+- "Causality and the ontology of disease", RJ Rovetto, R Mizoguchi, Applied Ontology 10 (2), 79-105
+- "Newtonian Forces and causation: a dispositional account", A Barton, R Rovetto, R Mizoguchi, Formal Ontology in Information Systems, 157-170
+- "The Shape of Shapes: An Ontological Exploration". RJ Rovetto, in Proceedings of SHAPES 1.0: The Shape of Things - Interdisciplinary Workshop on Shapes 812
 
 Space Policy & Space Traffic Management Papers
 - “The Essential Role of Human Spaceflight“, Space Policy, 29 (4), 225-228 (2013)

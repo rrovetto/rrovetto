@@ -21,7 +21,11 @@ In Journals & Conferences:
 - "Causality and the ontology of disease", RJ Rovetto, R Mizoguchi, Applied Ontology 10 (2), 79-105
 - "Newtonian Forces and causation: a dispositional account", A Barton, R Rovetto, R Mizoguchi, Formal Ontology in Information Systems, 157-170
 - "The Shape of Shapes: An Ontological Exploration". RJ Rovetto, in Proceedings of SHAPES 1.0: The Shape of Things - Interdisciplinary Workshop on Shapes 812
+- "Shaping up: The Phenotypic Quality Ontology and Cross Sections", RJ Rovetto in SHAPES 2.0: The Shape of Things - held at 4th World Congress and School on
 
+- "Presentism and the Problem of Singular Propositions about Non-Present Objects–Limitations of a Proposed Solution". RJ Rovetto, Polish Journal of Philosophy 8 (1), 53-66 (2014)
+- "The Human Being: Understanding Humanity through God and Reason", RJ Rovetto
+- 
 Space Policy & Space Traffic Management Papers
 - “The Essential Role of Human Spaceflight“, Space Policy, 29 (4), 225-228 (2013)
 - “Defending spaceflight – The echoes of Apollo“, Space Policy, 38, 68–78 (2016)

@@ -39,6 +39,7 @@ The following are public-facing documents, websites, and other media, that menti
 - In [magazine article on webpage](https://issuu.com/secondmuse/docs/nasa-datanauts-2017)
 - [2013 Conference presentation on ontology of shapes and biomedical ontology](https://cindy.informatik.uni-bremen.de/cosy/events/shapes2/contributions/)
 - [2011 Conference presentation on ontology of shapes](https://cindy.informatik.uni-bremen.de/cosy/events/shapes/programme/)
+- [2021 NASA SpaceApps Challenge, team webpage](https://2021.spaceappschallenge.org/challenges/statements/ontologies-and-interactive-network-visualizations/teams/ontelligence/project)
 
 #### Profile Pages
 - [CODER profile webpage](http://www.coder.umd.edu/node/287)

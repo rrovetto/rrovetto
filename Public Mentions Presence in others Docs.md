@@ -40,6 +40,7 @@ The following are public-facing documents, websites, and other media, that menti
 - [2013 Conference presentation on ontology of shapes and biomedical ontology](https://cindy.informatik.uni-bremen.de/cosy/events/shapes2/contributions/)
 - [2011 Conference presentation on ontology of shapes](https://cindy.informatik.uni-bremen.de/cosy/events/shapes/programme/)
 - [2021 NASA SpaceApps Challenge, team webpage](https://2021.spaceappschallenge.org/challenges/statements/ontologies-and-interactive-network-visualizations/teams/ontelligence/project)
+- [2021 ESAW Workshop](https://atpi.eventsair.com/QuickEventWebsitePortal/esaw-2021/website/Agenda/AgendaItemDetail?id=1e4811b9-1143-478a-bec6-e262958df952)
 
 #### Profile Pages
 - [CODER profile webpage](http://www.coder.umd.edu/node/287)

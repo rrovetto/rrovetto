@@ -1,4 +1,4 @@
-# List of my written works
+# Rob's Written Works - List of Publications & other Works 
 Topics: ontology development, symbolic logic, temporal logic, spaceflight and space policy, data modeling for space
 
 Proposals & Manuals

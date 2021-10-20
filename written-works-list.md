@@ -34,3 +34,4 @@ Space Policy & Space Traffic Management Papers
 - “The Essential Role of Human Spaceflight“, Space Policy, 29 (4), 225-228 (2013)
 - “Defending spaceflight – The echoes of Apollo“, Space Policy, 38, 68–78 (2016)
 - “Resurrecting Space Guard: Concepts for a Coast Guard of Space” [Purchase here], at the International Astronautical Congress (2017). [Purchase Poster]. 
+- ["Preliminary Results of the International Astronautical Federation Space Traffic  Management Technical Committee #26 Working Group on Terminology"](http://iaassconference2021.space-safety.org/wp-content/uploads/sites/34/2021/10/American-Chapter-IAASS11-Programme-04102021-Issue-9.pdf), co-authored, in 11th IAASS Conference – Managing Risk in Space.

@@ -2,9 +2,9 @@
 Topics: ontology development, symbolic logic, temporal logic, spaceflight and space policy, data modeling for space
 
 Proposals & Manuals
-- NASA Technical Memorandum: “An Ontology-Based Virtual Orrery” with Dr. Daniel A. O’Neil (2017-2021).
+- “[An Ontology-Based Virtual Orrery](https://ntrs.nasa.gov/citations/20210000030)” NASA Technical Memorandum, with Dr. Daniel A. O’Neil (2017-2021).
 - Grant Proposal (2018): “Ontology Engineering for Space Systems, Missions, and NASA Data”, NASA Fellowship Activity 2018, NASA Research Announcement NNH18ZHA003N. (Submitted only) [Ask about purchasing a copy]
-- Grant Proposal (2021) “Space Situational Awareness (SSA) Ontology for ESA’s SSA Programme” (submitted only) [Purchase Proposal in PDF] [Purchase Presentation]
+- Grant Proposal (2021) “Space Situational Awareness (SSA) Ontology for ESA’s SSA Programme” (submitted. presented in top-five finalists) [Purchase Proposal in PDF] [Purchase Presentation]
 - White Paper Proposal (2019): “Big Data in Space: Improving Spaceflight Safety through Knowledge-based Approaches” with Dr. Joanne Luciano, University of Virgin Islands.
 
 In Journals & Conferences:

@@ -8,7 +8,7 @@ Proposals & Manuals
 - White Paper Proposal (2019): “Big Data in Space: Improving Spaceflight Safety through Knowledge-based Approaches” with Dr. Joanne Luciano, University of Virgin Islands.
 
 In Journals & Conferences:
-- "Preliminary Results of the International Astronautical Federation Space Traffic Management Technical Committee #26 Working Group on Terminology" Rovetto, Oltrogge, Strah, Skinner, Mark, Laurent, Lacroix, Kumar, Grattan, Alonso. In [11th IAASS Conference – Managing Risk in Space Agenda – America & Japan Chapter](http://iaassconference2021.space-safety.org/wp-content/uploads/sites/34/2021/10/American-Chapter-IAASS11-Programme-04102021-Issue-9.pdf).
+- "Preliminary Results of the International Astronautical Federation Space Traffic Management Technical Committee #26 Working Group on Terminology" (2021) Rovetto, Oltrogge, Strah, Skinner, Mark, Laurent, Lacroix, Kumar, Grattan, Alonso. In [11th IAASS Conference – Managing Risk in Space Agenda – America & Japan Chapter](http://iaassconference2021.space-safety.org/wp-content/uploads/sites/34/2021/10/American-Chapter-IAASS11-Programme-04102021-Issue-9.pdf).
 - “An Ontological Architecture for Orbital Debris Data”, Rovetto, R.J. (2015), Earth Science Informatics, 9(1), 67-82.
 - “Preliminaries of a Space Situational Awareness Ontology”, [Purchase Presentation] with T.S. Kelso, In proceedings of 26th AIAA/AAS Space Flight Mechanics Meeting, Napa, California (2016). In Advances in the Astronautical Sciences, Univelt Inc.
 - “The Orbital Space Environment and Space Situational Awareness Domain Ontology – Towards an International Information System for Space Data“ [Purchase PDF here], Advanced Maui Optical and Space Surveillance Technologies Conference (AMOS) 2016. [Purchase Poster]
@@ -31,10 +31,10 @@ In Journals & Conferences:
 
 - "The Human Being: Understanding Humanity through God and Reason", RJ Rovetto
 
-- "Earth and Space Science Informatics Perspectives on Integrated, Coordinated, Open, Networked (ICON) Science" with D.Hills et al. pre-print in Earth and Space Science Open Archive.
+- "Earth and Space Science Informatics Perspectives on Integrated, Coordinated, Open, Networked (ICON) Science" (2021) with D.Hills et al. pre-print in Earth and Space Science Open Archive.
 
 Space Policy & Space Traffic Management Papers
-- “The Essential Role of Human Spaceflight“, Space Policy, 29 (4), 225-228 (2013)
-- “Defending spaceflight – The echoes of Apollo“, Space Policy, 38, 68–78 (2016)
+- “[The Essential Role of Human Spaceflight](https://www.sciencedirect.com/science/article/abs/pii/S0265964613000660)“, Space Policy, 29 (4), 225-228 (2013)
+- “[Defending spaceflight – The echoes of Apollo](https://www.sciencedirect.com/science/article/abs/pii/S0265964615300060)“, Space Policy, 38, 68–78 (2016)
 - “[Resurrecting Space Guard: Concepts for a Coast Guard of Space(https://iafastro.directory/iac/paper/id/40148/summary/)” [Purchase here], at the International Astronautical Congress (2017). [Purchase Poster]. 
 - ["Preliminary Results of the International Astronautical Federation Space Traffic  Management Technical Committee #26 Working Group on Terminology"](http://iaassconference2021.space-safety.org/wp-content/uploads/sites/34/2021/10/American-Chapter-IAASS11-Programme-04102021-Issue-9.pdf), co-authored, in 11th IAASS Conference – Managing Risk in Space.

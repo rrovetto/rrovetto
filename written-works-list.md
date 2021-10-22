@@ -17,7 +17,7 @@ In Journals & Conferences:
 - “An Ontology for Satellite Databases“, Earth Science Informatics, April 2017. DOI:10.1007/s12145-017-0290-x
 - “Space Object Ontology”, Rovetto, R.J. [Purchase here] (Under journal review in 2016) NOTE: this paper (and #2) were plagiarized & IP violated so please contact me if you see similar work, and please do not use or cite the papers same (of similar title) by other authors.
 - “Ontology for Europe’s Space Situational Awareness Programme” [Purchase here], 7th European Conference on Space Debris, Darmstadt, Germany. [Purchase Poster].
-- “Ontologies – Creating Human-centered Taxonomies to Annotate Data”, in Data Discovery Magazine, Summer 2017 (page 15), ISSUU, SecondMuse. On NASA Site.
+- “[Ontologies – Creating Human-centered Taxonomies to Annotate Data](https://issuu.com/secondmuse/docs/nasa-datanauts-2017)”, page 15 in Data Discovery Magazine, Summer 2017, ISSUU, SecondMuse. On NASA Site.
 - “[Ontology-based Knowledge Management for Space Data](https://iafastro.directory/iac/paper/id/40147/summary/)”, at the 68th International Astronautical Congress (Sept 2017).
 - “Orbital Debris Ontology, Terminology, and Knowledge Modeling”, with T.S. Kelso, and D.A. O’Neil. 1st International Orbital Debris Conference. December 2019. On NASA TRS. In Journal of Space Safety Engineering (Sept, 2020).[Purchase Poster]
 

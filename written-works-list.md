@@ -30,6 +30,8 @@ In Journals & Conferences:
 
 - "The Human Being: Understanding Humanity through God and Reason", RJ Rovetto
 
+- "Earth and Space Science Informatics Perspectives on Integrated, Coordinated, Open, Networked (ICON) Science" with D.Hills et al. pre-print in Earth and Space Science Open Archive.
+
 Space Policy & Space Traffic Management Papers
 - “The Essential Role of Human Spaceflight“, Space Policy, 29 (4), 225-228 (2013)
 - “Defending spaceflight – The echoes of Apollo“, Space Policy, 38, 68–78 (2016)

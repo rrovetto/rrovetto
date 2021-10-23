@@ -9,8 +9,8 @@ Proposals & Manuals
 
 In Journals & Conferences:
 - "Preliminary Results of the International Astronautical Federation Space Traffic Management Technical Committee #26 Working Group on Terminology" (2021) Rovetto, Oltrogge, Strah, Skinner, Mark, Laurent, Lacroix, Kumar, Grattan, Alonso. In [11th IAASS Conference – Managing Risk in Space](http://iaassconference2021.space-safety.org/wp-content/uploads/sites/34/2021/10/American-Chapter-IAASS11-Programme-04102021-Issue-9.pdf).
-- “An Ontological Architecture for Orbital Debris Data”, Rovetto, R.J. (2015), Earth Science Informatics, 9(1), 67-82.
-- “Preliminaries of a Space Situational Awareness Ontology”, [Purchase Presentation] with T.S. Kelso, In proceedings of 26th AIAA/AAS Space Flight Mechanics Meeting, Napa, California (2016). In Advances in the Astronautical Sciences, Univelt Inc.
+- “[An Ontological Architecture for Orbital Debris Data](https://link.springer.com/article/10.1007/s12145-015-0233-3)”, Rovetto, R.J. (2015), Earth Science Informatics, 9(1), 67-82.
+- “[Preliminaries of a Space Situational Awareness Ontology](https://www.univelt.com/book=5920)”, [Purchase Presentation] with T.S. Kelso, In proceedings of 26th AIAA/AAS Space Flight Mechanics Meeting, Napa, California (2016). In Advances in the Astronautical Sciences, Univelt Inc.
 - “The Orbital Space Environment and Space Situational Awareness Domain Ontology – Towards an International Information System for Space Data“ [Purchase PDF here], Advanced Maui Optical and Space Surveillance Technologies Conference (AMOS) 2016. [Purchase Poster]
 - “Orbital Space Environment and Space Situational Awareness Domain Ontology” [Purchase PDF here], CEUR proceedings, Joint Ontology Workshops, at 9th FOIS Early Career Symposium, 2016. [Purchase Presentation]
 - “Ontology Architectures for the Orbital Space Environment and Space Situational Awareness Domain” [Purchase PDF here], International Workshop on Ontology Modularity, Contextuality, and Evolution at the 9th FOIS, 2016. [Purchase Poster]

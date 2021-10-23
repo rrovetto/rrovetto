@@ -21,7 +21,7 @@ In Journals & Conferences:
 - “[Ontology-based Knowledge Management for Space Data](https://iafastro.directory/iac/paper/id/40147/summary/)”, at the 68th International Astronautical Congress (Sept 2017).
 - “[Orbital Debris Ontology, Terminology, and Knowledge Modeling](https://ntrs.nasa.gov/citations/20200000988)”, with T.S. Kelso, and D.A. O’Neil. 1st International Orbital Debris Conference. December 2019. On NASA TRS. In Journal of Space Safety Engineering (Sept, 2020).[Purchase Poster]
 
-- "Causality and the ontology of disease", RJ Rovetto, R Mizoguchi, Applied Ontology 10 (2), 79-105
+- "[Causality and the ontology of disease](https://content.iospress.com/articles/applied-ontology/ao147)", RJ Rovetto, R Mizoguchi, Applied Ontology 10 (2), 79-105
 - "Newtonian Forces and causation: a dispositional account", A Barton, R Rovetto, R Mizoguchi, Formal Ontology in Information Systems, 157-170
 
 - "[The Shape of Shapes: An Ontological Exploration](http://ceur-ws.org/Vol-812/paper9.pdf)". RJ Rovetto, in Proceedings of SHAPES 1.0: The Shape of Things - Interdisciplinary Workshop on Shapes 812

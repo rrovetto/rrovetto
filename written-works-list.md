@@ -29,7 +29,9 @@ In Journals & Conferences:
 
 - "[Presentism and the Problem of Singular Propositions about Non-Present Objects–Limitations of a Proposed Solution](https://www.pdcnet.org/pjphil/content/pjphil_2014_0008_0001_0053_0066)". RJ Rovetto, Polish Journal of Philosophy 8 (1), 53-66 (2014)
 
-- "The Human Being: Understanding Humanity through God and Reason", RJ Rovetto
+- "The Human Being: Understanding Humanity through God and Reason", RJ Rovetto. In Convergence: Being Human – The 2nd Annual Anthropology Graduate Student Association Interdisciplinary Symposium (2012)
+- "Misidentification and the Self", R.Rovetto. In Rienti Jr, Jennifer L. Faux, Laura A. LeVon & Caitlin L. Curtis (eds.), Proceedings of the 2011 Anthropology Graduate Student Association Interdisciplinary Graduate Symposium. University at Buffalo - The State University of New York. pp. 68-80 (2011)
+
 
 - "[Earth and Space Science Informatics Perspectives on Integrated, Coordinated, Open, Networked (ICON) Science](https://doi.org/10.1002/essoar.10508448.1)" (2021) with D.Hills et al. pre-print in Earth and Space Science Open Archive.
 

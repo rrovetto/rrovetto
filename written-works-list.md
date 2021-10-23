@@ -19,7 +19,7 @@ In Journals & Conferences:
 - “Ontology for Europe’s Space Situational Awareness Programme” [Purchase here], 7th European Conference on Space Debris, Darmstadt, Germany. [Purchase Poster].
 - “[Ontologies – Creating Human-centered Taxonomies to Annotate Data](https://issuu.com/secondmuse/docs/nasa-datanauts-2017)”, page 15 in Data Discovery Magazine, Summer 2017, ISSUU, SecondMuse. On NASA Site.
 - “[Ontology-based Knowledge Management for Space Data](https://iafastro.directory/iac/paper/id/40147/summary/)”, at the 68th International Astronautical Congress (Sept 2017).
-- “Orbital Debris Ontology, Terminology, and Knowledge Modeling”, with T.S. Kelso, and D.A. O’Neil. 1st International Orbital Debris Conference. December 2019. On NASA TRS. In Journal of Space Safety Engineering (Sept, 2020).[Purchase Poster]
+- “[Orbital Debris Ontology, Terminology, and Knowledge Modeling](https://ntrs.nasa.gov/citations/20200000988)”, with T.S. Kelso, and D.A. O’Neil. 1st International Orbital Debris Conference. December 2019. On NASA TRS. In Journal of Space Safety Engineering (Sept, 2020).[Purchase Poster]
 
 - "Causality and the ontology of disease", RJ Rovetto, R Mizoguchi, Applied Ontology 10 (2), 79-105
 - "Newtonian Forces and causation: a dispositional account", A Barton, R Rovetto, R Mizoguchi, Formal Ontology in Information Systems, 157-170

@@ -24,14 +24,14 @@ In Journals & Conferences:
 - "Causality and the ontology of disease", RJ Rovetto, R Mizoguchi, Applied Ontology 10 (2), 79-105
 - "Newtonian Forces and causation: a dispositional account", A Barton, R Rovetto, R Mizoguchi, Formal Ontology in Information Systems, 157-170
 
-- "The Shape of Shapes: An Ontological Exploration". RJ Rovetto, in Proceedings of SHAPES 1.0: The Shape of Things - Interdisciplinary Workshop on Shapes 812
-- "Shaping up: The Phenotypic Quality Ontology and Cross Sections", RJ Rovetto in SHAPES 2.0: The Shape of Things - held at 4th World Congress and School on
+- "[The Shape of Shapes: An Ontological Exploration](http://ceur-ws.org/Vol-812/paper9.pdf)". RJ Rovetto, in Proceedings of SHAPES 1.0: The Shape of Things - Interdisciplinary Workshop on Shapes 812
+- "[Shaping up: The Phenotypic Quality Ontology and Cross Sections](http://ceur-ws.org/Vol-1007/paper10.pdf)", RJ Rovetto in SHAPES 2.0: The Shape of Things - held at 4th World Congress and School on
 
-- "Presentism and the Problem of Singular Propositions about Non-Present Objects–Limitations of a Proposed Solution". RJ Rovetto, Polish Journal of Philosophy 8 (1), 53-66 (2014)
+- "[Presentism and the Problem of Singular Propositions about Non-Present Objects–Limitations of a Proposed Solution](https://www.pdcnet.org/pjphil/content/pjphil_2014_0008_0001_0053_0066)". RJ Rovetto, Polish Journal of Philosophy 8 (1), 53-66 (2014)
 
 - "The Human Being: Understanding Humanity through God and Reason", RJ Rovetto
 
-- "Earth and Space Science Informatics Perspectives on Integrated, Coordinated, Open, Networked (ICON) Science" (2021) with D.Hills et al. pre-print in Earth and Space Science Open Archive.
+- "[Earth and Space Science Informatics Perspectives on Integrated, Coordinated, Open, Networked (ICON) Science](https://doi.org/10.1002/essoar.10508448.1)" (2021) with D.Hills et al. pre-print in Earth and Space Science Open Archive.
 
 Space Policy & Space Traffic Management Papers
 - “[The Essential Role of Human Spaceflight](https://www.sciencedirect.com/science/article/abs/pii/S0265964613000660)“, Space Policy, 29 (4), 225-228 (2013)

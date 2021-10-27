@@ -42,5 +42,5 @@ Space Policy & Space Traffic Management Papers
 - ["Preliminary Results of the International Astronautical Federation Space Traffic  Management Technical Committee #26 Working Group on Terminology"](http://iaassconference2021.space-safety.org/wp-content/uploads/sites/34/2021/10/American-Chapter-IAASS11-Programme-04102021-Issue-9.pdf), co-authored, in 11th IAASS Conference – Managing Risk in Space.
 
 Reports
-"Space Law Ontology", R.J.Rovetto
-"Report 1 of the AIAA STM T"
+- "Space Law Ontology Project", R.J.Rovetto (Dec 2020)
+- "[Report 1 of the AIAA Space Traffic Management Working Group’s Task-group 1 Lexicon activity](https://engage.aiaa.org/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=15a215bc-df86-deda-6b32-86f4eb173cff&forceDialog=0), A.Peura, R.Rovetto. Nov 2020"

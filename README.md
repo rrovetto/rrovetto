@@ -7,10 +7,11 @@ Specialties are (1) ontology & terminology for [spaceflight](https://ontospace.w
 
 **FOR HIRE** - Click the following links to purchase services, products, or to schedule a meeting. 
 * [Schedule a Meeting for Work Partnership, here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/sb83f723d7838e4484783cc5a1c675f0e6eedf99d)
-* [Purchase all services or products here](https://tinyurl.com/yas7trzy)
-* [Purchase Specific Posters and Presenations here](https://ontospace.wordpress.com/purchase-poster-or-presentation-documents/).
-* [Ontology Consulting](https://tinyurl.com/34u9w6wx) --- [Ontology 101 Tutoring](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s7f4dbc7d873cce380b7f73062d5d72f619fe042a)
-* [Ontology Talks/Lectures](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s218822e77fee416ed3085be8eda045d6015d6d24)
+* [Purchase all services or products](https://tinyurl.com/yas7trzy)
+* [Purchase Specific Posters and Presenations](https://ontospace.wordpress.com/purchase-poster-or-presentation-documents/).
+* [Initial consultation for ontology services](https://booking.setmore.com/scheduleappointment/f18db686-98bb-41dd-9097-35218b2a1091/services/sd47f836d5eef3bc7e1aad2abe898fb813941fa7f)
+* [Ontology Consulting (direct hire)](https://tinyurl.com/34u9w6wx) --- [Ontology 101 Tutoring (direct hire)](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s7f4dbc7d873cce380b7f73062d5d72f619fe042a)
+* [Ontology Talks/Lectures (direct hire)](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s218822e77fee416ed3085be8eda045d6015d6d24)
   ([Read this list of ontology courses in a PPT presentation](https://www.slideshare.net/RobertRovetto/ontology-courses-education), and [this list of ontology services in PPT](https://www.slideshare.net/RobertRovetto/ontology-services-238070099)).
 
 ⚡If you find value in my work, projects, or service-to-disciplines, please [**DONATE, be a Patron, or Sponsor here**](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).

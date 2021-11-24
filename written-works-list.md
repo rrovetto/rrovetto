@@ -10,7 +10,7 @@ Proposals & Manuals
 In Journals & Conferences:
 - "Preliminary Results of the International Astronautical Federation Space Traffic Management Technical Committee #26 Working Group on Terminology" (2021) Rovetto, Oltrogge, Strah, Skinner, Mark, Laurent, Lacroix, Kumar, Grattan, Alonso. In [11th IAASS Conference – Managing Risk in Space](http://iaassconference2021.space-safety.org/wp-content/uploads/sites/34/2021/10/American-Chapter-IAASS11-Programme-04102021-Issue-9.pdf).
 - "[Recommendations of The IAF Space Traffic Management 
-Terminology Working Group"](https://comspoc.com/Resources/Papers/20211019_Recommendations_of_IAF_STM_Terminology_WG_FINAL.pdf), IAASS Conference 2021.
+Terminology Working Group"](https://comspoc.com/Resources/Papers/20211019_Recommendations_of_IAF_STM_Terminology_WG_FINAL.pdf), IAASS Conference 2021, Oltrogge, Rovetto, Skinner, Strah,  Francillout, Grattan, Kumar, Lacroix, Alonso.
 - “[An Ontological Architecture for Orbital Debris Data](https://doi.org/10.1007/s12145-015-0233-3)”, Rovetto, R.J. (2015), Earth Science Informatics, 9(1), 67-82.
 - “[Preliminaries of a Space Situational Awareness Ontology](https://www.univelt.com/book=5920)”, [Purchase Presentation] with T.S. Kelso, In proceedings of 26th AIAA/AAS Space Flight Mechanics Meeting, Napa, California (2016). In Advances in the Astronautical Sciences, Univelt Inc.
 - “The Orbital Space Environment and Space Situational Awareness Domain Ontology – Towards an International Information System for Space Data“ [Purchase PDF here], Advanced Maui Optical and Space Surveillance Technologies Conference (AMOS) 2016. [Purchase Poster]

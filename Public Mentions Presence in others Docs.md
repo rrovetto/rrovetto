@@ -44,6 +44,8 @@ The following are public-facing documents, websites, and other media, that menti
 - [2011 Conference presentation on ontology of shapes](https://cindy.informatik.uni-bremen.de/cosy/events/shapes/programme/)
 - [2021 NASA SpaceApps Challenge, team webpage](https://2021.spaceappschallenge.org/challenges/statements/ontologies-and-interactive-network-visualizations/teams/ontelligence/project)
 - [2021 ESAW Workshop website](https://atpi.eventsair.com/QuickEventWebsitePortal/esaw-2021/website/Agenda/AgendaItemDetail?id=1e4811b9-1143-478a-bec6-e262958df952)
+- [Space Policy website](https://www.space-policy.com/temporary-free-access-to-issue-294-of-space-policy/)
+
 
 #### Profile Pages
 - [CODER profile webpage](http://www.coder.umd.edu/node/287)

@@ -1,6 +1,9 @@
 ## Public Mentions (non-exhaustive list)
 The following are public-facing documents, websites, and other media, that mention me. They mention me as a contributor, editor, co-author, presenter, or as an example of a specific project.
 
+### In Books
+- In end notes of chapter 2 (“Something Matters: Things about Nappies”) of the book “Metaphysics of Children’s Literature – Climbing Fuzzy Mountains” by Lisa Sainsbury (2021)
+
 ### In Reports, Manuals and Standards 
 - Listed in 2020 [ANSI](https://ansi.org/) spaceflight meeting [PDF meeting report](https://share.ansi.org/Shared%20Documents/Standards%20Activities/Commercial%20Space%20Industry/December%207%2C%202020%20ANSI%20Informational%20Meeting%20-%20Standardization%20and%20the%20Commercial%20Space%20Industry/ANSI_Commercial_Space_Industry_Meeting_Report_120720.pdf)
 - In [AIAA standards document on spacecraft systems engineering ontology](https://arc.aiaa.org/doi/book/10.2514/4.106286)

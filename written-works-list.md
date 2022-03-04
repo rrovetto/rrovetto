@@ -62,6 +62,9 @@ _Spaceflight-related_: https://ontospace.wordpress.com/presentations-posters/
 - “Orbital Debris Ontology”, PPT as panelist in SSA panel at 2016 CODER. [Purchase here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s73face6d391370e0ac51295db29f2c9d6dce1c9c)
 - “Space Situational Awareness (SSA) Ontology”, PPT at 26th AIAA/AAS Space Flight Mechanics Meeting, Napa, California. (Feb 2016) [Purchase doc](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s21a5a277d74f5d2524aae8092dccb930ee12bd2b)
 - “The Orbital Space Environment and Space Situational Awareness Domain Ontology – Towards an International Information System for Space Data”, Poster at Advanced Maui Optical and Space Surveillance Technologies Conference (AMOS). (Sept 2016) [(Purchase here)](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s99ab48a70de36e0f4bbd19461864964b997795eb)
+- “Ontology for Europe’s Space Situational Awareness Programme”, Poster at 7th European Conference on Space Debris, ESA ESOC, Darmstadt, Germany. (Apr 2017) [Purchase here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/sbfd93ff72901ee41058d6d6608d645f834114ab4)
+- “The Orbital Space Environment and Space Situational Awareness Domain Ontology: Toward an Integrated Joint Space Ontology and Space Data System”
+– Poster at 3rd Interdisciplinary School on Applied Ontology (ISAO), Bolzano, Italy. (July 2016) [(Purchase here)](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/sd3b6ce0eaee4f1a2d39034f91bbacfa4dc16ca67)
 - “Improving Space Data Management & Space Situational Awareness: Ontology and Knowledge based Approaches – A Proposal” (Nov 2018)
   - PPT presented to members of ESA
   - PPT presented to a professor in Spain, which was pitched to gov’t for funding

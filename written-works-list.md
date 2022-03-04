@@ -46,3 +46,13 @@ Terminology Working Group"](https://comspoc.com/Resources/Papers/20211019_Recomm
 - "[Report 1 of the AIAA Space Traffic Management Working Group’s Task-group 1 Lexicon activity](https://engage.aiaa.org/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=15a215bc-df86-deda-6b32-86f4eb173cff&forceDialog=0), A.Peura, R.Rovetto. Nov 2020"
 
 ## PowerPoint & Poster Presentations - Virtual/Online and in-person at Conferences 
+_Spaceflight-related_: https://ontospace.wordpress.com/presentations-posters/
+
+- “A Framework for Knowledge Organization & Modeling of Space Data from Astronomy to near-Earth Space Activities”, ESIP Winter meeting. (Jan 2022) [Purchase](https://booking.setmore.com/scheduleappointment/f18db686-98bb-41dd-9097-35218b2a1091/services/ce247cd4-feba-48d4-a7ea-169dd90c3f13)
+- “Model-based Astronautical Systems Development: A project and call for support”, ESA ESAW Workshop. (Nov 2021) [Purchase here](https://booking.setmore.com/scheduleappointment/f18db686-98bb-41dd-9097-35218b2a1091/services/eae520bb-5008-441c-96dd-cb174d595133)
+- “Creating Semantic Reference Models for Spaceflight – An Ontology and Knowledge Graph Suite to support Astronautics” – Live presentation at European Union ENDORSE data conference. [Purchase here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s41cfc959779a72c201287571b26077e4f62d0d12)
+- “Semantic Orbital Sweep (SoS): Developing Knowledge Graphs and an Ontology Suite to Support Orbital Debris Remediation & Spaceflight for the Global Community”
+– PPT at Earth Science Information Partners (ESIP) Winter 2021 Meeting. [Purchase here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s7efc23cf3ec4bb38a82bec4483d7b482797ad172)
+- “Astronautical Knowledge Modeling – Spaceflight Semantics and AI for Astronautics” PPT at Center for Orbital Debris Education & Research Workshop. [Purchase here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s0f2c9b6f69a6e57150104caf327458b37aecec26)
+- “Semantic (Orbital) Sweep” Poster at ESIP Summer Meeting. (2020) [Purchase here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s7efc23cf3ec4bb38a82bec4483d7b482797ad172)
+- “Astronautical Knowledge Modeling to Improve Spaceflight Safety and Data Management – A call for project partners and opportunities”, PPT at ESIP Summer Meeting. [Purchase here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/sc66695d2b51978d6c6990df37daa3c9967f2820a)

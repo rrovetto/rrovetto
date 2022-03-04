@@ -72,3 +72,5 @@ _Spaceflight-related_: https://ontospace.wordpress.com/presentations-posters/
 - “Improving Space Data Management & Space Situational Awareness: Ontology and Knowledge based Approaches – A Proposal” (Nov 2018)
   - PPT presented to members of ESA
   - PPT presented to a professor in Spain, which was pitched to gov’t for funding
+
+- Misidentification and the Self", PPT presentation at the 2011 Anthropology Graduate Student Association, SUNY at Buffalo. 

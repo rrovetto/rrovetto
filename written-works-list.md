@@ -6,6 +6,7 @@
 - “Ontology Engineering for Space Systems, Missions, and NASA Data”, NASA Fellowship Activity 2018, NASA Research Announcement NNH18ZHA003N. (Submitted only) [Ask about purchasing a copy] (Grant Proposal 2018)
 - “Space Situational Awareness (SSA) Ontology for ESA’s SSA Programme” (Submitted. Presented in top-five finalists.) [Purchase Proposal in PDF] [Purchase Presentation] (Grant Proposal 2021)
 - “Big Data in Space: Improving Spaceflight Safety through Knowledge-based Approaches” with Dr. Joanne Luciano, University of Virgin Islands. (White Paper Proposal 2019)
+- "Boat operators manual", a manual I developed for a recreational small boat company. (2016)
 
 ## In Journals & Conferences:
 - "Preliminary Results of the International Astronautical Federation Space Traffic Management Technical Committee #26 Working Group on Terminology" (2021) Rovetto, Oltrogge, Strah, Skinner, Mark, Laurent, Lacroix, Kumar, Grattan, Alonso. In [11th IAASS Conference – Managing Risk in Space](http://iaassconference2021.space-safety.org/wp-content/uploads/sites/34/2021/10/American-Chapter-IAASS11-Programme-04102021-Issue-9.pdf).
@@ -48,9 +49,10 @@ Terminology Working Group"](https://comspoc.com/Resources/Papers/20211019_Recomm
 ## PowerPoint & Poster Presentations - Virtual/Online and in-person at Conferences 
 _Spaceflight-related_: https://ontospace.wordpress.com/presentations-posters/
 
-- “A Framework for Knowledge Organization & Modeling of Space Data from Astronomy to near-Earth Space Activities”, ESIP Winter meeting. (Jan 2022) [Purchase](https://booking.setmore.com/scheduleappointment/f18db686-98bb-41dd-9097-35218b2a1091/services/ce247cd4-feba-48d4-a7ea-169dd90c3f13)
+- “A Framework for Knowledge Organization & Modeling of Space Data from Astronomy to near-Earth Space Activities”, A session I organized at ESIP Winter meeting. (Jan 2022) [(Purchase here)](https://booking.setmore.com/scheduleappointment/f18db686-98bb-41dd-9097-35218b2a1091/services/ce247cd4-feba-48d4-a7ea-169dd90c3f13)
 - “Model-based Astronautical Systems Development: A project and call for support”, ESA ESAW Workshop. (Nov 2021) [Purchase here](https://booking.setmore.com/scheduleappointment/f18db686-98bb-41dd-9097-35218b2a1091/services/eae520bb-5008-441c-96dd-cb174d595133)
 - “Creating Semantic Reference Models for Spaceflight – An Ontology and Knowledge Graph Suite to support Astronautics” – Live presentation at European Union ENDORSE data conference. (Mar 2021) [Purchase here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s41cfc959779a72c201287571b26077e4f62d0d12)
+- "Community Development of the SWEET semantic system for Earth and Environmental Data", PPT presentation of a session I organized at ESIP Winter meeting (Jan 2022)
 - “Semantic Orbital Sweep (SoS): Developing Knowledge Graphs and an Ontology Suite to Support Orbital Debris Remediation & Spaceflight for the Global Community”, PPT at Earth Science Information Partners (ESIP) Winter 2021 Meeting. (Jan 2021) [Purchase here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s7efc23cf3ec4bb38a82bec4483d7b482797ad172)
 - “Astronautical Knowledge Modeling – Spaceflight Semantics and AI for Astronautics” PPT at Center for Orbital Debris Education & Research Workshop. (Dec 2020) [Purchase here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s0f2c9b6f69a6e57150104caf327458b37aecec26)
 - “Roadmap for Global Agreement toward Long-Term Sustainability of Space – Some Activities in the AIAA Space Traffic Management Working Group” – PPT at CODER Workshop. (Dec 2020) [Purchase this document here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/sfcb0bebbc9e94b95d6b43092b5a129b490a96848) 

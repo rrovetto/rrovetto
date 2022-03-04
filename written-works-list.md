@@ -1,16 +1,18 @@
 # Rob's Written Works - List of Publications & other Works 
-Topics: ontology development, symbolic logic, temporal logic, spaceflight and space policy, data modeling for space
+**Topics**: ontology development, symbolic logic, temporal logic, spaceflight and space policy, data modeling for space
 
-Proposals & Manuals
+## Proposals & Manuals
 - “[An Ontology-Based Virtual Orrery](https://ntrs.nasa.gov/citations/20210000030)” NASA Technical Memorandum, with Dr. Daniel A. O’Neil (2017-2021).
-- Grant Proposal (2018): “Ontology Engineering for Space Systems, Missions, and NASA Data”, NASA Fellowship Activity 2018, NASA Research Announcement NNH18ZHA003N. (Submitted only) [Ask about purchasing a copy]
-- Grant Proposal (2021) “Space Situational Awareness (SSA) Ontology for ESA’s SSA Programme” (submitted. presented in top-five finalists) [Purchase Proposal in PDF] [Purchase Presentation]
-- White Paper Proposal (2019): “Big Data in Space: Improving Spaceflight Safety through Knowledge-based Approaches” with Dr. Joanne Luciano, University of Virgin Islands.
+- “Ontology Engineering for Space Systems, Missions, and NASA Data”, NASA Fellowship Activity 2018, NASA Research Announcement NNH18ZHA003N. (Submitted only) [Ask about purchasing a copy] (Grant Proposal 2018)
+- “Space Situational Awareness (SSA) Ontology for ESA’s SSA Programme” (Submitted. Presented in top-five finalists.) [Purchase Proposal in PDF] [Purchase Presentation] (Grant Proposal 2021)
+- “Big Data in Space: Improving Spaceflight Safety through Knowledge-based Approaches” with Dr. Joanne Luciano, University of Virgin Islands. (White Paper Proposal 2019)
 
-In Journals & Conferences:
+## In Journals & Conferences:
 - "Preliminary Results of the International Astronautical Federation Space Traffic Management Technical Committee #26 Working Group on Terminology" (2021) Rovetto, Oltrogge, Strah, Skinner, Mark, Laurent, Lacroix, Kumar, Grattan, Alonso. In [11th IAASS Conference – Managing Risk in Space](http://iaassconference2021.space-safety.org/wp-content/uploads/sites/34/2021/10/American-Chapter-IAASS11-Programme-04102021-Issue-9.pdf).
-- "[Recommendations of The IAF Space Traffic Management 
+  - "[Recommendations of The IAF Space Traffic Management 
 Terminology Working Group"](https://comspoc.com/Resources/Papers/20211019_Recommendations_of_IAF_STM_Terminology_WG_FINAL.pdf), IAASS Conference 2021, Oltrogge, Rovetto, Skinner, Strah,  Francillout, Grattan, Kumar, Lacroix, Alonso.
+- "[Earth and Space Science Informatics Perspectives on Integrated, Coordinated, Open, Networked (ICON) Science](https://doi.org/10.1002/essoar.10508448.1)" (2021) with D.Hills et al. pre-print in Earth and Space Science Open Archive.
+- “[Orbital Debris Ontology, Terminology, and Knowledge Modeling](https://ntrs.nasa.gov/citations/20200000988)”, with T.S. Kelso, and D.A. O’Neil. 1st International Orbital Debris Conference. December 2019. On NASA TRS. In Journal of Space Safety Engineering (Sept, 2020).[Purchase Poster]
 - “[An Ontological Architecture for Orbital Debris Data](https://doi.org/10.1007/s12145-015-0233-3)”, Rovetto, R.J. (2015), Earth Science Informatics, 9(1), 67-82.
 - “[Preliminaries of a Space Situational Awareness Ontology](https://www.univelt.com/book=5920)”, [Purchase Presentation] with T.S. Kelso, In proceedings of 26th AIAA/AAS Space Flight Mechanics Meeting, Napa, California (2016). In Advances in the Astronautical Sciences, Univelt Inc.
 - “The Orbital Space Environment and Space Situational Awareness Domain Ontology – Towards an International Information System for Space Data“ [Purchase PDF here], Advanced Maui Optical and Space Surveillance Technologies Conference (AMOS) 2016. [Purchase Poster]
@@ -19,13 +21,9 @@ Terminology Working Group"](https://comspoc.com/Resources/Papers/20211019_Recomm
 - “[An Ontology for Satellite Databases](https://doi.org/10.1007/s12145-017-0290-x)“, Earth Science Informatics, April 2017. DOI:10.1007/s12145-017-0290-x
 - “Space Object Ontology”, Rovetto, R.J. [Purchase here] (Under journal review in 2016) NOTE: this paper (and #2) were plagiarized & IP violated so please contact me if you see similar work, and please do not use or cite the papers same (of similar title) by other authors.
 - “Ontology for Europe’s Space Situational Awareness Programme” [Purchase here], 7th European Conference on Space Debris, Darmstadt, Germany. [Purchase Poster].
-- “[Ontologies – Creating Human-centered Taxonomies to Annotate Data](https://issuu.com/secondmuse/docs/nasa-datanauts-2017)”, page 15 in Data Discovery Magazine, Summer 2017, ISSUU, SecondMuse. On NASA Site.
 - “[Ontology-based Knowledge Management for Space Data](https://iafastro.directory/iac/paper/id/40147/summary/)”, at the 68th International Astronautical Congress (Sept 2017).
-- “[Orbital Debris Ontology, Terminology, and Knowledge Modeling](https://ntrs.nasa.gov/citations/20200000988)”, with T.S. Kelso, and D.A. O’Neil. 1st International Orbital Debris Conference. December 2019. On NASA TRS. In Journal of Space Safety Engineering (Sept, 2020).[Purchase Poster]
-
 - "[Causality and the ontology of disease](https://content.iospress.com/articles/applied-ontology/ao147)", RJ Rovetto, R Mizoguchi, Applied Ontology 10 (2), 79-105
 - "[Newtonian Forces and causation: a dispositional account](https://ebooks.iospress.nl/publication/37965)", A Barton, R Rovetto, R Mizoguchi, Formal Ontology in Information Systems, 157-170
-
 - "[The Shape of Shapes: An Ontological Exploration](http://ceur-ws.org/Vol-812/paper9.pdf)". RJ Rovetto, in Proceedings of SHAPES 1.0: The Shape of Things - Interdisciplinary Workshop on Shapes 812
 - "[Shaping up: The Phenotypic Quality Ontology and Cross Sections](http://ceur-ws.org/Vol-1007/paper10.pdf)", RJ Rovetto in SHAPES 2.0: The Shape of Things - held at 4th World Congress and School on
 
@@ -34,15 +32,17 @@ Terminology Working Group"](https://comspoc.com/Resources/Papers/20211019_Recomm
 - "The Human Being: Understanding Humanity through God and Reason", RJ Rovetto. In Convergence: Being Human – The 2nd Annual Anthropology Graduate Student Association Interdisciplinary Symposium (2012)
 - "Misidentification and the Self", R.Rovetto. In Rienti Jr, Jennifer L. Faux, Laura A. LeVon & Caitlin L. Curtis (eds.), Proceedings of the 2011 Anthropology Graduate Student Association Interdisciplinary Graduate Symposium. University at Buffalo - The State University of New York. pp. 68-80 (2011)
 
+## Magazines & Misc. Media - Online & Print
+- “[Ontologies – Creating Human-centered Taxonomies to Annotate Data](https://issuu.com/secondmuse/docs/nasa-datanauts-2017)”, page 15 in Data Discovery Magazine (online), Summer 2017, ISSUU, SecondMuse. On NASA Site.
 
-- "[Earth and Space Science Informatics Perspectives on Integrated, Coordinated, Open, Networked (ICON) Science](https://doi.org/10.1002/essoar.10508448.1)" (2021) with D.Hills et al. pre-print in Earth and Space Science Open Archive.
-
-Space Policy & Space Traffic Management Papers
+## Spaceflight, Space Policy, & Space Traffic Management Papers
 - “[The Essential Role of Human Spaceflight](https://www.sciencedirect.com/science/article/abs/pii/S0265964613000660)“, Space Policy, 29 (4), 225-228 (2013)
 - “[Defending spaceflight – The echoes of Apollo](https://www.sciencedirect.com/science/article/abs/pii/S0265964615300060)“, Space Policy, 38, 68–78 (2016)
 - “[Resurrecting Space Guard: Concepts for a Coast Guard of Space](https://iafastro.directory/iac/paper/id/40148/summary/)” [Purchase here], at the International Astronautical Congress (2017). [Purchase Poster]. 
-- ["Preliminary Results of the International Astronautical Federation Space Traffic  Management Technical Committee #26 Working Group on Terminology"](http://iaassconference2021.space-safety.org/wp-content/uploads/sites/34/2021/10/American-Chapter-IAASS11-Programme-04102021-Issue-9.pdf), co-authored, in 11th IAASS Conference – Managing Risk in Space.
+- ["Preliminary Results of the International Astronautical Federation Space Traffic  Management Technical Committee #26 Working Group on Terminology"](http://iaassconference2021.space-safety.org/wp-content/uploads/sites/34/2021/10/American-Chapter-IAASS11-Programme-04102021-Issue-9.pdf), co-authored, in 11th IAASS Conference – Managing Risk in Space. [PDF](https://comspoc.com/Resources/Papers/20211019_Recommendations_of_IAF_STM_Terminology_WG_FINAL.pdf)
 
-Reports
+## Reports
 - "Space Law Ontology Project", R.J.Rovetto (Dec 2020)
 - "[Report 1 of the AIAA Space Traffic Management Working Group’s Task-group 1 Lexicon activity](https://engage.aiaa.org/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=15a215bc-df86-deda-6b32-86f4eb173cff&forceDialog=0), A.Peura, R.Rovetto. Nov 2020"
+
+## PowerPoint & Poster Presentations - Virtual/Online and in-person at Conferences 

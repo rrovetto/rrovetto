@@ -1,6 +1,9 @@
 # Rob's Written Works - List of Publications & other Works 
 **Topics**: ontology development, symbolic logic, temporal logic, spaceflight and space policy, data modeling for space
 
+## Standards documents
+- "Human Spaceflight: Spacecraft Architecture and Systems Engineering Ontology (ANSI/AIAA S-153-2021)"(https://arc.aiaa.org/doi/book/10.2514/4.106286)
+
 ## Proposals & Manuals
 - “[An Ontology-Based Virtual Orrery](https://ntrs.nasa.gov/citations/20210000030)” NASA Technical Memorandum, with Dr. Daniel A. O’Neil (2017-2021).
 - “Ontology Engineering for Space Systems, Missions, and NASA Data”, NASA Fellowship Activity 2018, NASA Research Announcement NNH18ZHA003N. (Submitted only) [Ask about purchasing a copy] (Grant Proposal 2018)

@@ -4,3 +4,4 @@ Proof of work/contributions in the AIAA STM WG Lexicon group. This includes:
 - researching/reviewing subject matter material 
 - collecting additional definitions
 - providing a spreadsheet 
+- Co-authoring a conference paper

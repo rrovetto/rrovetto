@@ -16,6 +16,7 @@
   - "[Recommendations of The IAF Space Traffic Management 
 Terminology Working Group"](https://comspoc.com/Resources/Papers/20211019_Recommendations_of_IAF_STM_Terminology_WG_FINAL.pdf), IAASS Conference 2021, Oltrogge, Rovetto, Skinner, Strah,  Francillout, Grattan, Kumar, Lacroix, Alonso.
 - "[Earth and Space Science Informatics Perspectives on Integrated, Coordinated, Open, Networked (ICON) Science](https://doi.org/10.1002/essoar.10508448.1)" (2021) with D.Hills et al. pre-print in Earth and Space Science Open Archive.
+- "Roadmap for Global Agreement on Standards to Advance the Long Term Sustainability of Space", Scott Kordella, Darren McKnight, Robert Rovetto, Ruth Stilwell , Maruška Strah, in AIAA ASCEND November 2020.
 - “[Orbital Debris Ontology, Terminology, and Knowledge Modeling](https://ntrs.nasa.gov/citations/20200000988)”, with T.S. Kelso, and D.A. O’Neil. 1st International Orbital Debris Conference. December 2019. On NASA TRS. In Journal of Space Safety Engineering (Sept, 2020).[Purchase Poster]
 - “[An Ontological Architecture for Orbital Debris Data](https://doi.org/10.1007/s12145-015-0233-3)”, Rovetto, R.J. (2015), Earth Science Informatics, 9(1), 67-82.
 - “[Preliminaries of a Space Situational Awareness Ontology](https://www.univelt.com/book=5920)”, [Purchase Presentation] with T.S. Kelso, In proceedings of 26th AIAA/AAS Space Flight Mechanics Meeting, Napa, California (2016). In Advances in the Astronautical Sciences, Univelt Inc.

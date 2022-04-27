@@ -1,1 +1,1 @@
-Contains proof of affiliation, and 
+Contains proof of affiliation, and my work/contributions therein.

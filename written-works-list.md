@@ -78,3 +78,7 @@ _Spaceflight-related_: https://ontospace.wordpress.com/presentations-posters/
   - PPT presented to a professor in Spain, which was pitched to gov’t for funding
 
 - Misidentification and the Self", PPT presentation at the 2011 Anthropology Graduate Student Association, SUNY at Buffalo. 
+
+## Submissions only (either not published, not presnted, not accepted to venue, etc.)
+- "Conceptual, semantic and ontological modeling in MBSE for astronautics", 2022
+- "When a space object is not a space object: Limitations of the term", 2022, Accepted in 44th COSPAR Scientific Assembly (Athens, Greece)

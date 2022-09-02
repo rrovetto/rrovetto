@@ -12,15 +12,15 @@ Specialties are (1) ontology & terminology for [spaceflight](https://ontospace.w
 
 **📫 [CONTACT ME](https://ontospace.wordpress.com/contact/)**  rrovetto[at]terpalum[dot]umd[dot]edu 💬  -- Thanks for visiting.
 
-**HOW YOU CAN HELP:** Most of the works described or presented in these GitHub repositories are personal projects, and therefore need funding (sponsors, employer or study opportunities) to pursue and complete. Please [contact me](https://ontospace.wordpress.com/contact/) if you would like to sponsor or be a patron for one of my projects, or hire me.
+**HOW YOU CAN HELP:** Much of the works described or presented in these GitHub repositories are personal projects, and therefore need funding (sponsors, employer or study opportunities) to pursue and complete. Please [contact me](https://ontospace.wordpress.com/contact/) if you would like to sponsor or be a patron for one of my projects, or hire me.
 
 ⚡If you find value in my work, projects, or my community service, please **DONATE, be a Patron, or Sponsor at these links**
 * [Donate via PayPal](https://www.paypal.com/donate/?business=JN9YD94DHA87Y&no_recurring=0&item_name=With+your+support%2C+we+can+help+make+spaceflight+safer%2C+and+make+knowledge+about+space+more+accessible.+Thanks.&currency_code=USD)
 * [GoGetFunding page 1](https://tinyurl.com/yyoo6z96)
 * [GoGetFunding page 2 - spaceflight knowledge modeling](https://www.patreon.com/user?u=6298778&fan_landing=true)
 
-©2021, Robert J. Rovetto. All right reserved. 
-All contact on this GitHub profile is not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required. No warranty. No claims to completeness. All content, work and products are subject to revision. All content in this GitHub account is presented "AS IS". The copyright holder / author does not accept any liability and is not liable for any harm resulting from access or use of the content. In proceeding to view or use any associated pages or content by the author, you are accepting these terms.
+©2022, Robert J. Rovetto. All right reserved. 
+All content on this GitHub profile is not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required. No warranty. No claims to completeness. All content, work and products are subject to revision. All content in this GitHub account is presented "AS IS". The copyright holder / author does not accept any liability and is not liable for any harm resulting from access or use of the content. In proceeding to view or use any associated pages or content by the author, you are accepting these terms.
 
 <!--
 **rrovetto/rrovetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

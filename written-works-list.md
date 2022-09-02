@@ -82,3 +82,5 @@ _Spaceflight-related_: https://ontospace.wordpress.com/presentations-posters/
 ## Submissions only (either not published, not presnted, not accepted to venue, etc.)
 - "Conceptual, semantic and ontological modeling in MBSE for astronautics", 2022
 - "When a space object is not a space object: Limitations of the term", 2022, Accepted in 44th COSPAR Scientific Assembly (Athens, Greece)
+- "Ethics in Ontology" 2016-present, [PhilPapers](https://philpapers.org/rec/ROVEIO)
+- "Causal Relations for Formal Ontology", 2014, Submitted to various journals.

@@ -78,10 +78,11 @@ _Spaceflight-related_: https://ontospace.wordpress.com/presentations-posters/
   - PPT presented to members of ESA
   - PPT presented to a professor in Spain, which was pitched to gov’t for funding
 
+_Other topics_
 - Misidentification and the Self", PPT presentation at the 2011 Anthropology Graduate Student Association, SUNY at Buffalo. 
 
 ## Submissions only (either not published, not presented, not accepted to venue, etc.)
-- "Conceptual, semantic and ontological modeling in MBSE for astronautics", 2022
+- "Conceptual, semantic and ontological modeling in MBSE for astronautics", submitted to ESA workshop 2022 
 - "When a space object is not a space object: Limitations of the term", 2022, Accepted in 44th COSPAR Scientific Assembly (Athens, Greece)
 - "Visioning a family of knowledge representations for Orbit Data – Research & Development of additional formats for the Two-line Element Set, Orbit Data Message, and other Space Situational Awareness Content", 2022, submitted to (rejected) IAC 2022. 
 - "AstroPortal: An ontology repository concept for astronomy, astronautics and other space topics" submitted (but rejected) to IJCKG 2021

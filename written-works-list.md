@@ -82,6 +82,15 @@ _Spaceflight-related_: https://ontospace.wordpress.com/presentations-posters/
 ## Submissions only (either not published, not presented, not accepted to venue, etc.)
 - "Conceptual, semantic and ontological modeling in MBSE for astronautics", 2022
 - "When a space object is not a space object: Limitations of the term", 2022, Accepted in 44th COSPAR Scientific Assembly (Athens, Greece)
+- "Visioning a family of knowledge representations for Orbit Data – Research & Development of additional formats for the Two-line Element Set, Orbit Data Message, and other Space Situational Awareness Content", 2022, submitted to (rejected) IAC 2022. 
+- "AstroPortal: An ontology repository concept for astronomy, astronautics and other space topics" submitted (but rejected) to IJCKG 2021
 - "Ethics in Ontology", 2016-present, [PhilPapers](https://philpapers.org/rec/ROVEIO)
-- "Causal Relations for Formal Ontology", 2014, Submitted to various journals.
-- "Formal Representations of Orbits", 2014, Submitted to various journals
+- "Ethical Aspects of Ontology Development and Use", submitted (but rejected) to IJCKG 2021
+- "Ethical aspects of Knowledge Engineering - Toward the Ethics of Ontology", submitted (but rejected) to EKAW2022.
+- "Causal Relations for Formal Ontology", 2014, Submitted to various journals, e.g., JAO 2016
+- "Formal Representations of Orbits", 2014, Submitted to various journals, JAO (2016)
+- "Clarifying Some Key Concepts and Topics in Generic Ontology Development", submitted (rejected) to FOIS 2022
+- "Clarifying some Concepts and Myths of Ontology Development and Use" submitted (but rejected) to IJCKG 2021
+- "Category names for types of ontologies: observations, recommendations, and a redefinition" submitted (but rejected) to FoIKS 2022
+- "Mereocausality and Causal Mereology", submitted to: Analysis, Journal of Philosophy, Review of Metaphysics, Canadian Journal of Philosophy, EU Journal of Philosophy, FOIS, EKAW, ER 2022.
+- "Dynamic Continuants and Enduring Processes for Ontology" submitted (but rejected) to Journal of Applied Ontology

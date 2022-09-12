@@ -3,6 +3,7 @@
 
 ## Standards documents
 - "Human Spaceflight: Spacecraft Architecture and Systems Engineering Ontology (ANSI/AIAA S-153-2021)"(https://arc.aiaa.org/doi/book/10.2514/4.106286)
+- Ask about contributions to ISO (International Standardization Organization) documents
 
 ## Proposals & Manuals
 - “[An Ontology-Based Virtual Orrery](https://ntrs.nasa.gov/citations/20210000030)” NASA Technical Memorandum, with Dr. Daniel A. O’Neil (2017-2021).

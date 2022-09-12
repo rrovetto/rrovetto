@@ -35,7 +35,7 @@ Terminology Working Group"](https://comspoc.com/Resources/Papers/20211019_Recomm
 - "[Presentism and the Problem of Singular Propositions about Non-Present Objects–Limitations of a Proposed Solution](https://www.pdcnet.org/pjphil/content/pjphil_2014_0008_0001_0053_0066)". RJ Rovetto, Polish Journal of Philosophy 8 (1), 53-66 (2014)
 
 - "The Human Being: Understanding Humanity through God and Reason", RJ Rovetto. In Convergence: Being Human – The 2nd Annual Anthropology Graduate Student Association Interdisciplinary Symposium (2012)
-- "Misidentification and the Self", R.Rovetto. In Rienti Jr, Jennifer L. Faux, Laura A. LeVon & Caitlin L. Curtis (eds.), Proceedings of the 2011 Anthropology Graduate Student Association Interdisciplinary Graduate Symposium. University at Buffalo - The State University of New York. pp. 68-80 (2011)
+- "Misidentification and the Self", R.Rovetto. In Rienti Jr, Jennifer L. Faux, Laura A. LeVon & Caitlin L. Curtis (eds.), [Proceedings of the 2011 Anthropology Graduate Student Association Interdisciplinary Graduate Symposium](https://www.academia.edu/1432894/Misidentification_and_the_Self). University at Buffalo - The State University of New York. pp. 68-80 (2011)
 
 ## Magazines & Misc. Media - Online & Print
 - “[Ontologies – Creating Human-centered Taxonomies to Annotate Data](https://issuu.com/secondmuse/docs/nasa-datanauts-2017)”, page 15 in Data Discovery Magazine (online), Summer 2017, ISSUU, SecondMuse. On NASA Site.

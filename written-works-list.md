@@ -49,7 +49,7 @@ Terminology Working Group"](https://comspoc.com/Resources/Papers/20211019_Recomm
 - ["Preliminary Results of the International Astronautical Federation Space Traffic  Management Technical Committee #26 Working Group on Terminology"](http://iaassconference2021.space-safety.org/wp-content/uploads/sites/34/2021/10/American-Chapter-IAASS11-Programme-04102021-Issue-9.pdf), co-authored, in 11th IAASS Conference – Managing Risk in Space. [PDF](https://comspoc.com/Resources/Papers/20211019_Recommendations_of_IAF_STM_Terminology_WG_FINAL.pdf)
 
 ## Reports
-- [Cooperative initiative to develop comprehensive approaches and proposals for Space Traffic Management (STM)](https://iisl.space/iisl-iaa-and-iaf-conclude-major-report-on-stm/), IAF STM TC26 Executive Summary 2022, as a contributor among other technical commmittee members. 
+- [Cooperative initiative to develop comprehensive approaches and proposals for Space Traffic Management (STM)](https://iisl.space/iisl-iaa-and-iaf-conclude-major-report-on-stm/), IAF STM TC26 Executive Summary 2022 ([PDF document](https://iisl.space/wp-content/uploads/2022/09/IAF-TC26-STM_EXECUTIVE-SUMMARY-17SEP2022-1.pdf)), as a contributor among other technical commmittee members. 
 - "Space Law Ontology Project", R.J.Rovetto (Dec 2020)
 - "[Report 1 of the AIAA Space Traffic Management Working Group’s Task-group 1 Lexicon activity](https://engage.aiaa.org/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=15a215bc-df86-deda-6b32-86f4eb173cff&forceDialog=0), A.Peura, R.Rovetto. Nov 2020"
 

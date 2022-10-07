@@ -13,7 +13,7 @@
 - "Boat operators manual", a manual I developed for a recreational small boat company. (2016)
 
 ## In Journals & Conferences:
-- ["The ethics of conceptual, ontological, semantic and knowledge modeling"], Rovetto, R.J. Forthcoming 2022-2023.
+- "The ethics of conceptual, ontological, semantic and knowledge modeling", Rovetto, R.J. Forthcoming 2022-2023.
 - ["Research & development in Astronautical Terminology - A project summary and call for support"](https://iafastro.directory/iac/paper/id/70941/summary/), Rovetto, R.J., in International Astronautical Congress, 2022, Multilingual Terminology Session.
 - ["Space traffic management terminology"](https://www.sciencedirect.com/science/article/abs/pii/S2468896722001069#!), with Mark A.Skinner; Dan Oltrogge; Maruska Strah; Robert J.Rovetto; AndreLacroix,A K; Anil Kumar; Kyran Grattan; Laurent Francillout; Ines Alonso, Journal of Space Safety Engineering, (Sept 2022)
 - "Preliminary Results of the International Astronautical Federation Space Traffic Management Technical Committee #26 Working Group on Terminology" (2021) Rovetto, Oltrogge, Strah, Skinner, Mark, Laurent, Lacroix, Kumar, Grattan, Alonso. In [11th IAASS Conference – Managing Risk in Space](http://iaassconference2021.space-safety.org/wp-content/uploads/sites/34/2021/10/American-Chapter-IAASS11-Programme-04102021-Issue-9.pdf).

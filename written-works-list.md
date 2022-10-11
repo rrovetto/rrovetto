@@ -102,4 +102,4 @@ _Other topics_
 - "Category names for types of ontologies: observations, recommendations, and a redefinition" submitted (but rejected) to FoIKS 2022
 - "Mereocausality and Causal Mereology", submitted to: Analysis, Journal of Philosophy, Review of Metaphysics, Canadian Journal of Philosophy, EU Journal of Philosophy, FOIS, EKAW, ER 2022.
 - "Dynamic Continuants and Enduring Processes for Ontology" submitted (but rejected) to Journal of Applied Ontology
-- "Aspects of Lunar Search & Rescue and Interoperability - Semantic Interoperability" - accepted to 1st IAASS Lunar SAR Conference 2022.
+- "[Aspects of Lunar Search & Rescue and Interoperability - Semantic Interoperability]()" - Accepted to 1st IAASS Lunar SAR Conference 2022, but then the conference reneged on including it. [Purchase a copy here](https://booking.setmore.com/scheduleappointment/f18db686-98bb-41dd-9097-35218b2a1091/services/838713ec-ae6b-4b6f-89eb-1ba79acfd888)

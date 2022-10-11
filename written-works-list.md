@@ -94,7 +94,7 @@ _Other topics_
 - "Ethical Aspects of Ontology Development and Use", submitted (but rejected) to IJCKG 2021 - [Purchase here](https://booking.setmore.com/scheduleappointment/f18db686-98bb-41dd-9097-35218b2a1091/services/52c02ada-fdff-4ba4-9e78-d4c1f3de9f5d)
 - "Ethical aspects of Knowledge Engineering - Toward the Ethics of Ontology", submitted (but rejected) to EKAW2022.
 - "Ethics of Semantics" in [US2TS 2022](https://us2ts.org/2022/program) ([accepted poster](https://github.com/rrovetto/rrovetto/blob/26fe71b0bbc4452ea08e56464a92afcad4cdb638/affiliations-and-work/papers/PROOF_US2TS_Posters_ethics_space.JPG))
-- "Space and Spaceflight Semantics" in [US2TS 2022](https://us2ts.org/2022/program) ([accepted poster](https://github.com/rrovetto/rrovetto/blob/26fe71b0bbc4452ea08e56464a92afcad4cdb638/affiliations-and-work/papers/PROOF_US2TS_Posters_ethics_space.JPG))
+- "Space and Spaceflight Semantics" in [US2TS 2022](https://us2ts.org/2022/program) ([accepted poster](https://github.com/rrovetto/rrovetto/blob/0365ec298bf6f9f6b65bd09283427226183f68f8/affiliations-and-work/papers/PROOF_US2TS-2022_SpaceSpaceflightSemantics_AcceptanceEmail.JPG))
 - "Causal Relations for Formal Ontology", 2014, Submitted to various journals, e.g., JAO 2016
 - "Formal Representations of Orbits", 2014, Submitted to various journals, JAO (2016)
 - "Clarifying Some Key Concepts and Topics in Generic Ontology Development", submitted (rejected) to FOIS 2022

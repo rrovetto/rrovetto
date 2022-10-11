@@ -91,7 +91,7 @@ _Other topics_
 - "Visioning a family of knowledge representations for Orbit Data – Research & Development of additional formats for the Two-line Element Set, Orbit Data Message, and other Space Situational Awareness Content", 2022, submitted to (rejected) IAC 2022. 
 - "AstroPortal: An ontology repository concept for astronomy, astronautics and other space topics" submitted (but rejected) to IJCKG 2021
 - "Ethics in Ontology", 2016-present, [PhilPapers](https://philpapers.org/rec/ROVEIO)
-- "Ethical Aspects of Ontology Development and Use", submitted (but rejected) to IJCKG 2021
+- "Ethical Aspects of Ontology Development and Use", submitted (but rejected) to IJCKG 2021 - [Purchase here](https://booking.setmore.com/scheduleappointment/f18db686-98bb-41dd-9097-35218b2a1091/services/52c02ada-fdff-4ba4-9e78-d4c1f3de9f5d)
 - "Ethical aspects of Knowledge Engineering - Toward the Ethics of Ontology", submitted (but rejected) to EKAW2022.
 - "Ethics of Semantics" in [US2TS 2022](https://us2ts.org/2022/program) (accepted poster)
 - "Space and Spaceflight Semantics" in [US2TS 2022](https://us2ts.org/2022/program) (accepted poster)

@@ -58,6 +58,7 @@ Terminology Working Group"](https://comspoc.com/Resources/Papers/20211019_Recomm
 ## PowerPoint & Poster Presentations - Virtual/Online and in-person at Conferences 
 _Spaceflight-related_: https://ontospace.wordpress.com/presentations-posters/
 
+- "Knowledge representation & Terminological work for Space Operations", A presentation to AIAA SOTC (Space Operations Technical Committee) Improving Space Operations Workshop - 17 May 2020.
 - “A Framework for Knowledge Organization & Modeling of Space Data from Astronomy to near-Earth Space Activities”, A session I organized at ESIP Winter meeting. (Jan 2022) [(Purchase here)](https://booking.setmore.com/scheduleappointment/f18db686-98bb-41dd-9097-35218b2a1091/services/ce247cd4-feba-48d4-a7ea-169dd90c3f13)
 - “[Model-based Astronautical Systems Development: A project and call for support](https://atpi.eventsair.com/QuickEventWebsitePortal/esaw-2021/website/Agenda/AgendaItemDetail?id=1e4811b9-1143-478a-bec6-e262958df952)”, ESA ESAW Workshop. (Nov 2021) [Purchase here](https://booking.setmore.com/scheduleappointment/f18db686-98bb-41dd-9097-35218b2a1091/services/eae520bb-5008-441c-96dd-cb174d595133)
 - “Creating Semantic Reference Models for Spaceflight – An Ontology and Knowledge Graph Suite to support Astronautics” – Live presentation at European Union ENDORSE data conference. (Mar 2021) [Purchase here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s41cfc959779a72c201287571b26077e4f62d0d12)

@@ -5,14 +5,16 @@
 - "Human Spaceflight: Spacecraft Architecture and Systems Engineering Ontology (ANSI/AIAA S-153-2021)"(https://arc.aiaa.org/doi/book/10.2514/4.106286)
 - Ask about contributions to ISO (International Standardization Organization) documents
 
-## Proposals & Manuals
-- “[An Ontology-Based Virtual Orrery](https://ntrs.nasa.gov/citations/20210000030)” NASA Technical Memorandum, with Dr. Daniel A. O’Neil (2017-2021).
-- “Ontology Engineering for Space Systems, Missions, and NASA Data”, NASA Fellowship Activity 2018, NASA Research Announcement NNH18ZHA003N. (Submitted only) [Ask about purchasing a copy] (Grant Proposal 2018)
+## Manuals
+- “[An Ontology-Based Virtual Orrery](https://ntrs.nasa.gov/citations/20210000030)” NASA Technical Memorandum, D.A. O’Neil (NASA), R.J.Rovetto (2017-2021).
+- "Boat operators manual", a manual I developed for a recreational small boat company. (2016)
+- 
+## Proposals 
+- “Ontology Engineering for Space Systems, Missions, and NASA Data”, NASA Fellowship Activity 2018, NASA Research Announcement NNH18ZHA003N. (Submitted, but not accepted) [Ask about purchasing a copy] (Grant Proposal 2018)
 - “Space Situational Awareness (SSA) Ontology for ESA’s SSA Programme” (Submitted. Presented in top-five finalists.) [Purchase Proposal in PDF] [Purchase Presentation] (Grant Proposal 2021)
 - “Big Data in Space: Improving Spaceflight Safety through Knowledge-based Approaches” with Dr. Joanne Luciano, University of Virgin Islands. (White Paper Proposal 2019)
-- "Boat operators manual", a manual I developed for a recreational small boat company. (2016)
 
-## In Journals & Conferences:
+## In Journals & Conferences
 - "The ethics of conceptual, ontological, semantic and knowledge modeling", Rovetto, R.J., [Accepted to journal](https://github.com/rrovetto/rrovetto/blob/559f50e07dd940e67a5394e4475924e2017ea5f5/affiliations-and-work/papers/PROOF_EthicsConceptOnto_AISocietyJournal_2022.JPG), Forthcoming 2022-2023.
 - ["Research & development in Astronautical Terminology - A project summary and call for support"](https://iafastro.directory/iac/paper/id/70941/summary/), Rovetto, R.J., in International Astronautical Congress, 2022, Multilingual Terminology Session.
 - ["Space traffic management terminology"](https://www.sciencedirect.com/science/article/abs/pii/S2468896722001069#!), with Mark A.Skinner; Dan Oltrogge; Maruska Strah; Robert J.Rovetto; AndreLacroix,A K; Anil Kumar; Kyran Grattan; Laurent Francillout; Ines Alonso, Journal of Space Safety Engineering, (Sept 2022)
@@ -98,6 +100,7 @@ _Other topics_
 - "Space and Spaceflight Semantics" in [US2TS 2022](https://us2ts.org/2022/program) ([accepted poster](https://github.com/rrovetto/rrovetto/blob/0365ec298bf6f9f6b65bd09283427226183f68f8/affiliations-and-work/papers/PROOF_US2TS-2022_SpaceSpaceflightSemantics_AcceptanceEmail.JPG))
 - "Causal Relations for Formal Ontology", 2014, Submitted to various journals, e.g., JAO 2016
 - "Formal Representations of Orbits", 2014, Submitted to various journals, JAO (2016)
+- "The Ontology of Orbits", 2014
 - "Clarifying Some Key Concepts and Topics in Generic Ontology Development", submitted (rejected) to FOIS 2022
 - "Clarifying some Concepts and Myths of Ontology Development and Use" submitted (but rejected) to IJCKG 2021
 - "Category names for types of ontologies: observations, recommendations, and a redefinition" submitted (but rejected) to FoIKS 2022

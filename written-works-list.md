@@ -85,6 +85,8 @@ _Spaceflight-related_: https://ontospace.wordpress.com/presentations-posters/
   - PPT presented to members of ESA
   - PPT presented to a professor in Spain, which was pitched to gov’t for funding
 
+- "Introduction to Generic Ontologies", Presented on April 10, 2018 at University Koblenz-Landau, Germany, Instute for Web Science and Technologies.
+
 _Other topics_
 - Misidentification and the Self", PPT presentation at the 2011 Anthropology Graduate Student Association, SUNY at Buffalo. 
 

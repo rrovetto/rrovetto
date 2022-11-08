@@ -8,7 +8,7 @@
 ## Manuals
 - “[An Ontology-Based Virtual Orrery](https://ntrs.nasa.gov/citations/20210000030)” NASA Technical Memorandum, D.A. O’Neil (NASA), R.J.Rovetto (2017-2021).
 - "Boat operators manual", a manual I developed for a recreational small boat company. (2016)
-- 
+
 ## Proposals 
 - “Ontology Engineering for Space Systems, Missions, and NASA Data”, NASA Fellowship Activity 2018, NASA Research Announcement NNH18ZHA003N. (Submitted, but not accepted) [Ask about purchasing a copy] (Grant Proposal 2018)
 - “Space Situational Awareness (SSA) Ontology for ESA’s SSA Programme” (Submitted. Presented in top-five finalists.) [Purchase Proposal in PDF] [Purchase Presentation] (Grant Proposal 2021)

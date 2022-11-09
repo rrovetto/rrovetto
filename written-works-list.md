@@ -5,9 +5,10 @@
 - "Human Spaceflight: Spacecraft Architecture and Systems Engineering Ontology (ANSI/AIAA S-153-2021)"(https://arc.aiaa.org/doi/book/10.2514/4.106286)
 - Ask about contributions to ISO (International Standardization Organization) documents
 
-## Manuals
+## Manuals & Memorandums
 - “[An Ontology-Based Virtual Orrery](https://ntrs.nasa.gov/citations/20210000030)” NASA Technical Memorandum, D.A. O’Neil (NASA), R.J.Rovetto (2017-2021).
 - "Boat operators manual", a manual I developed for a recreational small boat company. (2016)
+- (in-progress) The Ontology Guidebook
 
 ## Proposals 
 - “Ontology Engineering for Space Systems, Missions, and NASA Data”, NASA Fellowship Activity 2018, NASA Research Announcement NNH18ZHA003N. (Submitted, but not accepted) [Ask about purchasing a copy] (Grant Proposal 2018)
@@ -85,7 +86,7 @@ _Spaceflight-related_: https://ontospace.wordpress.com/presentations-posters/
   - PPT presented to members of ESA
   - PPT presented to a professor in Spain, which was pitched to gov’t for funding
 
-- "Introduction to Generic Ontologies", Presented on April 10, 2018 at University Koblenz-Landau, Germany, Instute for Web Science and Technologies.
+- "Introduction to Generic Ontologies", Presented on April 10, 2018 at University Koblenz-Landau, Germany, Institute for Web Science and Technologies.
 
 _Other topics_
 - Misidentification and the Self", PPT presentation at the 2011 Anthropology Graduate Student Association, SUNY at Buffalo. 

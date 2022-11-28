@@ -92,7 +92,7 @@ _Other topics_
 - Misidentification and the Self", PPT presentation at the 2011 Anthropology Graduate Student Association, SUNY at Buffalo. 
 
 ## Submissions only (either not published, accepted to venue but not presented, not accepted to venue, etc.)
-- "Conceptual, semantic and ontological modeling in MBSE for astronautics", submitted to ESA workshop 2022 
+- "[Conceptual, semantic and ontological modeling in MBSE for astronautics](https://tinyurl.com/4h9jx9ee)", submitted to [ESA MBSE workshop 2022](https://indico.esa.int/event/407/) 
 - "When a space object is not a space object: Limitations of the term", 2022, [Accepted in 44th COSPAR Scientific Assembly (Athens, Greece)](https://github.com/rrovetto/rrovetto/blob/26fe71b0bbc4452ea08e56464a92afcad4cdb638/affiliations-and-work/papers/AcceptanceLetter_PSSH.1-0003-22_COSPAR_SpaceObj_Rovetto.pdf)
 - "Visioning a family of knowledge representations for Orbit Data – Research & Development of additional formats for the Two-line Element Set, Orbit Data Message, and other Space Situational Awareness Content", 2022, submitted to (rejected) IAC 2022. 
 - "AstroPortal: An ontology repository concept for astronomy, astronautics and other space topics" submitted (but rejected) to IJCKG 2021

@@ -49,11 +49,13 @@ The following are public-facing documents, websites, and other media, that menti
 
 
 #### Profile Pages
-- [CODER profile webpage](http://www.coder.umd.edu/node/287)
 - [GoogleScholar](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra)
 - [ORCID profle](https://orcid.org/0000-0003-3835-7817)
 - [International Astronautical Federation](https://www.iafastro.org/biographie/robert-rovetto.html)
 - [NASBLA maritime safety profile page](https://tinyurl.com/mph85tte)
+- [PhilPeople profile](https://philpeople.org/profiles/robert-j-rovetto)
+- (Closed link. Active 2014-2021) [CODER profile webpage](http://www.coder.umd.edu/node/287)
+
 
 #### In Articles cited in text
 

@@ -52,6 +52,7 @@ The following are public-facing documents, websites, and other media, that menti
 - [CODER profile webpage](http://www.coder.umd.edu/node/287)
 - [GoogleScholar](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra)
 - [ORCID profle](https://orcid.org/0000-0003-3835-7817)
+- [International Astronautical Federation](https://www.iafastro.org/biographie/robert-rovetto.html)
 
 
 #### In Articles cited in text

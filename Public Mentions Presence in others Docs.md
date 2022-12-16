@@ -55,7 +55,8 @@ The following are public-facing documents, websites, and other media, that menti
 - [NASBLA maritime safety profile page](https://tinyurl.com/mph85tte)
 - [PhilPeople profile](https://philpeople.org/profiles/robert-j-rovetto)
 - (Closed link. Active 2014-2021) [CODER profile webpage](http://www.coder.umd.edu/node/287)
-
+- Space Careers
+- Copernical (spaceflight sector network)
 
 #### In Articles cited in text
 

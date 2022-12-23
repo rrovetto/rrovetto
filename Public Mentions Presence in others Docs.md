@@ -9,7 +9,7 @@ The following are public-facing documents, websites, and other media, that menti
 - In [AIAA standards document on spacecraft systems engineering ontology](https://arc.aiaa.org/doi/book/10.2514/4.106286)
 - Mentioned in [2021 Report](https://elib.dlr.de/141454/1/B%C3%B6ning_TheCurrent.pdf) on page 32 of "The Current State of Research and Technology of Digitalization in the Space Industry" 
 
-### In Acknowledgements of publicaitons
+### In Acknowledgements sections of publicaitons
 - Contruber to, and English editing of, [Hozo ontology editor manual](http://www.hozo.jp/)
 - In academic paper on formal ontology ["Towards a Unified Definition of Function"](https://books.google.com/books?id=dNvvAgAAQBAJ&pg=PA116&lpg=PA116&dq=robert+rovetto+ontology&source=bl&ots=YBi9iYB-7B&sig=ACfU3U0FKUCPbwVkflQ9fSHVqamdBQ3PXQ&hl=en&sa=X&ved=2ahUKEwiqvMr81djyAhXjkOAKHZ5jAig4UBDoAXoECAIQAw#v=onepage&q=robert%20rovetto%20ontology&f=false)
 - In [academic paper on spaceflight and modeling](https://web.corral.tacc.utexas.edu/MOST/Walls_AMOS_20160915.pdf)

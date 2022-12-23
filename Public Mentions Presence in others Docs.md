@@ -47,6 +47,8 @@ The following are public-facing documents, websites, and other media, that menti
 - [Contributor's List of the International Astronautical Federation Space Traffic Management Committee](https://iafastro.directory/iac/comm/id/spacetraffic/member/)
 - [Space Policy website](https://www.space-policy.com/temporary-free-access-to-issue-294-of-space-policy/)
 
+### On Email Lists
+- Listed as organizer for ESAO2021, in [email on Semantic Web Google Group listserve](https://groups.google.com/g/semantic_web/c/wcjQt_3-7ww/m/hfvHkGeTAwAJ)
 
 #### Profile Pages
 - [GoogleScholar](https://scholar.google.com/citations?user=jTkGEiMAAAAJ&hl=en&oi=sra)

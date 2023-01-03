@@ -1,5 +1,5 @@
 # Rob's Written Works - List of Publications & other Works 
-**Topics**: ontology development, symbolic logic, temporal logic, spaceflight and space policy, data modeling for space
+**Topics**: conceptual analysis, ethics, philosophy, formal ontology, ontology dev., symbolic & temporal logic, spaceflight (space policy, data modeling, terminology), grant proposals, etc.
 
 ## Standards documents
 - "Human Spaceflight: Spacecraft Architecture and Systems Engineering Ontology (ANSI/AIAA S-153-2021)"(https://arc.aiaa.org/doi/book/10.2514/4.106286)
@@ -14,6 +14,7 @@
 - “Ontology Engineering for Space Systems, Missions, and NASA Data”, NASA Fellowship Activity 2018, NASA Research Announcement NNH18ZHA003N. (Submitted, but not accepted) [Ask about purchasing a copy] (Grant Proposal 2018)
 - “Space Situational Awareness (SSA) Ontology for ESA’s SSA Programme” (Submitted. Presented in top-five finalists.) [Purchase Proposal in PDF] [Purchase Presentation] (Grant Proposal 2021)
 - “Big Data in Space: Improving Spaceflight Safety through Knowledge-based Approaches” with Dr. Joanne Luciano, University of Virgin Islands. (White Paper Proposal 2019)
+- Contributor to a US DoD proposal by an aerospace start-up company and a university partner, 2022. 
 
 ## In Journals & Conferences
 - "The ethics of conceptual, ontological, semantic and knowledge modeling", Rovetto, R.J., [Accepted to journal](https://github.com/rrovetto/rrovetto/blob/559f50e07dd940e67a5394e4475924e2017ea5f5/affiliations-and-work/papers/PROOF_EthicsConceptOnto_AISocietyJournal_2022.JPG), Forthcoming 2022-2023.

@@ -39,6 +39,7 @@ Terminology Working Group"](https://comspoc.com/Resources/Papers/20211019_Recomm
 - "[Newtonian Forces and causation: a dispositional account](https://ebooks.iospress.nl/publication/37965)", A Barton, R Rovetto, R Mizoguchi, Formal Ontology in Information Systems, 157-170
 - "[The Shape of Shapes: An Ontological Exploration](http://ceur-ws.org/Vol-812/paper9.pdf)". RJ Rovetto, in Proceedings of SHAPES 1.0: The Shape of Things - Interdisciplinary Workshop on Shapes 812
 - "[Shaping up: The Phenotypic Quality Ontology and Cross Sections](http://ceur-ws.org/Vol-1007/paper10.pdf)", RJ Rovetto in SHAPES 2.0: The Shape of Things - held at 4th World Congress and School on
+- "Processing Events: Towards a Specialization of Temporally-Extended Entities", PPT presentation and corresponding paper at 2012 Philosophy and Linguistics Colloquium (PhiLing) at University of Maryland College Park. 
 
 - "[Presentism and the Problem of Singular Propositions about Non-Present Objects–Limitations of a Proposed Solution](https://www.pdcnet.org/pjphil/content/pjphil_2014_0008_0001_0053_0066)". RJ Rovetto, Polish Journal of Philosophy 8 (1), 53-66 (2014)
 

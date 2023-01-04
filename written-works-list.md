@@ -141,4 +141,6 @@ _Other topics_
 - "The toxicity of tipping"
 - "On Tipping - A Socratic Dialog (or what Socrates would say)"
 - "The Toxicity of Texting"
-- Various papers on: spaceflight concepts, ontology/conceptual/semantic modeling for space, misc.
+- "A standard vocabulary for astronautics: high-level concepts"
+- "Clarifying concepts of spaceflight"
+- Various other papers on: spaceflight concepts, ontology/conceptual/semantic modeling for space, misc.

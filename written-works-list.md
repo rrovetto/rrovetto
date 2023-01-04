@@ -92,6 +92,8 @@ _Spaceflight-related_: https://ontospace.wordpress.com/presentations-posters/
 
 _Other topics_
 - Misidentification and the Self", PPT presentation at the 2011 Anthropology Graduate Student Association, SUNY at Buffalo. 
+- "Developing the U.S. National Water Safety Action Plan (USNWSAP) Activities of the Rescue/CPR group", Abstract and PPT presentation, 2023
+
 
 ## Submissions only (either not published, accepted to venue but not presented, not accepted to venue, etc.)
 - "[Conceptual, semantic and ontological modeling in MBSE for astronautics](https://tinyurl.com/4h9jx9ee)", submitted to [ESA MBSE workshop 2022](https://indico.esa.int/event/407/) 

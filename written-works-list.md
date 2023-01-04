@@ -95,7 +95,6 @@ _Other topics_
 - Misidentification and the Self", PPT presentation at the 2011 Anthropology Graduate Student Association, SUNY at Buffalo. 
 - "Developing the U.S. National Water Safety Action Plan (USNWSAP) Activities of the Rescue/CPR group", Abstract and PPT presentation, 2023
 
-
 ## Submissions only (either not published, accepted to venue but not presented, not accepted to venue, etc.)
 - "Conceptual, semantic and ontological modeling in MBSE for astronautics", submitted to [ESA MBSE workshop 2022](https://indico.esa.int/event/407/) 
 - "When a space object is not a space object: Limitations of the term", 2022, [Accepted in 44th COSPAR Scientific Assembly (Athens, Greece)](https://github.com/rrovetto/rrovetto/blob/26fe71b0bbc4452ea08e56464a92afcad4cdb638/affiliations-and-work/papers/AcceptanceLetter_PSSH.1-0003-22_COSPAR_SpaceObj_Rovetto.pdf)
@@ -109,13 +108,14 @@ _Other topics_
 - "The Ethical Significance of the Principle of Last Resort in Just War Theory", paper submitted to various journals since 2014.
 
 - "Space and Spaceflight Semantics" in [US2TS 2022](https://us2ts.org/2022/program) ([accepted poster](https://github.com/rrovetto/rrovetto/blob/0365ec298bf6f9f6b65bd09283427226183f68f8/affiliations-and-work/papers/PROOF_US2TS-2022_SpaceSpaceflightSemantics_AcceptanceEmail.JPG))
-- "Causal Relations for Formal Ontology", 2014, Submitted to various journals, e.g., JAO 2016
 - "Formal Representations of Orbits", 2014, Submitted to various journals, JAO (2016)
 - "The Ontology of Orbits", 2014
+- "The Ontology of Galaxies", submitted to journals in 2014
 
 - "Clarifying Some Key Concepts and Topics in Generic Ontology Development", submitted (rejected) to FOIS 2022
 - "Clarifying some Concepts and Myths of Ontology Development and Use" submitted (but rejected) to IJCKG 2021
 - "Category names for types of ontologies: observations, recommendations, and a redefinition" submitted (but rejected) to FoIKS 2022
+- "Causal Relations for Formal Ontology", 2014, Submitted to various journals, e.g., JAO 2016
 - "Mereocausality and Causal Mereology", submitted to: Analysis, Journal of Philosophy, Review of Metaphysics, Canadian Journal of Philosophy, EU Journal of Philosophy, FOIS, EKAW, ER 2022.
 - "Dynamic Continuants and Enduring Processes for Ontology" submitted (but rejected) to Journal of Applied Ontology
 - "The Pattern in Process", paper submitted to journals in 2013 and later.
@@ -124,6 +124,10 @@ _Other topics_
 
 - "The Parallel between Rescue Boats and their Crew", paper submitted to journal approx 2016.
 - "God as Reason", paper submitted to journals
+
+## Poetry
+- "Keeper" - a poem about the calling to service in martime search and rescue
+- "Snow Fall"
 
 ## Drafts / In-progress
 - "A Purpose-driven Life", PPT presentation, visual slide, and paper

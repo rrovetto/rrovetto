@@ -132,3 +132,8 @@ _Other topics_
 - "The toxicity of tipping"
 - "On Tipping - A Socratic Dialog (or what Socrates would say)"
 - "The Toxicity of Texting"
+
+## Visual works
+- Boat specification visual aids (single slide format) for three rescue boat designs.
+- The above-mentioned boat manual, and ATON manual, contain visual content
+- Various diagrams: graph diagrams, etc. Sample available on request. Various visual tools used.

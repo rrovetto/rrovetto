@@ -129,15 +129,16 @@ _Other topics_
 - "Keeper" - a poem about the calling to service in martime search and rescue
 - "Snow Fall"
 
-## Drafts / In-progress
+## Visual works
+- Boat specification visual aids (single slide format) for three rescue boat designs.
+- The above-mentioned boat manual, and ATON manual, contain visual content
+- _Various diagrams_: graph diagrams, etc. Sample available on request. Various visual tools used.
+
+## Drafts
 - "A Purpose-driven Life", PPT presentation, visual slide, and paper
 - "The Creative Mind of The Creative Universe"
 - "Saving our Higher Thought - The Necessity of Preserving the Classics"
 - "The toxicity of tipping"
 - "On Tipping - A Socratic Dialog (or what Socrates would say)"
 - "The Toxicity of Texting"
-
-## Visual works
-- Boat specification visual aids (single slide format) for three rescue boat designs.
-- The above-mentioned boat manual, and ATON manual, contain visual content
-- Various diagrams: graph diagrams, etc. Sample available on request. Various visual tools used.
+- Various papers on: spaceflight concepts, ontology/conceptual/semantic modeling for space, misc.

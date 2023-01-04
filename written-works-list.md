@@ -100,14 +100,18 @@ _Other topics_
 - "When a space object is not a space object: Limitations of the term", 2022, [Accepted in 44th COSPAR Scientific Assembly (Athens, Greece)](https://github.com/rrovetto/rrovetto/blob/26fe71b0bbc4452ea08e56464a92afcad4cdb638/affiliations-and-work/papers/AcceptanceLetter_PSSH.1-0003-22_COSPAR_SpaceObj_Rovetto.pdf)
 - "Visioning a family of knowledge representations for Orbit Data – Research & Development of additional formats for the Two-line Element Set, Orbit Data Message, and other Space Situational Awareness Content", 2022, submitted to (rejected) IAC 2022. 
 - "AstroPortal: An ontology repository concept for astronomy, astronautics and other space topics" submitted (but rejected) to IJCKG 2021
+
 - "Ethics in Ontology", 2016-present, [PhilPapers](https://philpapers.org/rec/ROVEIO)
 - "Ethical Aspects of Ontology Development and Use", submitted (but rejected) to IJCKG 2021 - [Purchase here](https://booking.setmore.com/scheduleappointment/f18db686-98bb-41dd-9097-35218b2a1091/services/52c02ada-fdff-4ba4-9e78-d4c1f3de9f5d)
 - "Ethical aspects of Knowledge Engineering - Toward the Ethics of Ontology", submitted (but rejected) to EKAW2022.
 - "Ethics of Semantics" in [US2TS 2022](https://us2ts.org/2022/program) ([accepted poster](https://github.com/rrovetto/rrovetto/blob/26fe71b0bbc4452ea08e56464a92afcad4cdb638/affiliations-and-work/papers/PROOF_US2TS_Posters_ethics_space.JPG))
+- "The Ethical Significance of the Principle of Last Resort in Just War Theory", paper submitted to various journals since 2014.
+
 - "Space and Spaceflight Semantics" in [US2TS 2022](https://us2ts.org/2022/program) ([accepted poster](https://github.com/rrovetto/rrovetto/blob/0365ec298bf6f9f6b65bd09283427226183f68f8/affiliations-and-work/papers/PROOF_US2TS-2022_SpaceSpaceflightSemantics_AcceptanceEmail.JPG))
 - "Causal Relations for Formal Ontology", 2014, Submitted to various journals, e.g., JAO 2016
 - "Formal Representations of Orbits", 2014, Submitted to various journals, JAO (2016)
 - "The Ontology of Orbits", 2014
+
 - "Clarifying Some Key Concepts and Topics in Generic Ontology Development", submitted (rejected) to FOIS 2022
 - "Clarifying some Concepts and Myths of Ontology Development and Use" submitted (but rejected) to IJCKG 2021
 - "Category names for types of ontologies: observations, recommendations, and a redefinition" submitted (but rejected) to FoIKS 2022

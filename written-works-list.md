@@ -1,4 +1,5 @@
 # Rob's Written Works - List of Publications & other Works 
+This is an attempt at an exhaustive listing of [my](https://orcid.org/0000-0003-3835-7817) written works (whether published or not).
 **Topics**: conceptual analysis, ethics, philosophy, poetry, formal ontology, ontology dev., symbolic & temporal logic, spaceflight (space policy, data modeling, terminology), grant proposals, visual study guides, quick-reference sheets, etc.
 
 ## Standards documents
@@ -63,7 +64,7 @@ Terminology Working Group"](https://comspoc.com/Resources/Papers/20211019_Recomm
 ## PowerPoint & Poster Presentations - Virtual/Online and in-person at Conferences 
 _Spaceflight-related_: https://ontospace.wordpress.com/presentations-posters/
 
-- "Spaceflight & Maritime Operations AI Knowledge Representation", Rovetto, 30 Nov 2022, PPT Presentation made in a confidential meeting with Field Science & Technology Advisors (S&Ts) Information Analysis Centers (DOD IAC) of J8 US Combatant Commands.
+- "Spaceflight & Maritime Operations AI Knowledge Representation", Rovetto, 30 Nov 2022, PPT Presentation made in a confidential meeting with Field Science & Technology Advisors (S&Ts) Information Analysis Centers (DOD IAC) of J8 US Combatant Commands. TTD.
 - "Knowledge representation & Terminological work for Space Operations", A presentation to AIAA SOTC (Space Operations Technical Committee) Improving Space Operations Workshop - 17 May 2020.
 - “A Framework for Knowledge Organization & Modeling of Space Data from Astronomy to near-Earth Space Activities”, A session I organized at ESIP Winter meeting. (Jan 2022) [(Purchase here)](https://booking.setmore.com/scheduleappointment/f18db686-98bb-41dd-9097-35218b2a1091/services/ce247cd4-feba-48d4-a7ea-169dd90c3f13)
 - “[Model-based Astronautical Systems Development: A project and call for support](https://atpi.eventsair.com/QuickEventWebsitePortal/esaw-2021/website/Agenda/AgendaItemDetail?id=1e4811b9-1143-478a-bec6-e262958df952)”, ESA ESAW Workshop. (Nov 2021) [Purchase here](https://booking.setmore.com/scheduleappointment/f18db686-98bb-41dd-9097-35218b2a1091/services/eae520bb-5008-441c-96dd-cb174d595133)
@@ -100,6 +101,13 @@ _Other topics_
 - "When a space object is not a space object: Limitations of the term", 2022, [Accepted in 44th COSPAR Scientific Assembly (Athens, Greece)](https://github.com/rrovetto/rrovetto/blob/26fe71b0bbc4452ea08e56464a92afcad4cdb638/affiliations-and-work/papers/AcceptanceLetter_PSSH.1-0003-22_COSPAR_SpaceObj_Rovetto.pdf)
 - "Visioning a family of knowledge representations for Orbit Data – Research & Development of additional formats for the Two-line Element Set, Orbit Data Message, and other Space Situational Awareness Content", 2022, submitted to (rejected) IAC 2022. 
 - "AstroPortal: An ontology repository concept for astronomy, astronautics and other space topics" submitted (but rejected) to IJCKG 2021
+- "Space and Spaceflight Semantics" in [US2TS 2022](https://us2ts.org/2022/program) ([accepted poster](https://github.com/rrovetto/rrovetto/blob/0365ec298bf6f9f6b65bd09283427226183f68f8/affiliations-and-work/papers/PROOF_US2TS-2022_SpaceSpaceflightSemantics_AcceptanceEmail.JPG))
+- "Aspects of Lunar Search & Rescue and Interoperability - Semantic Interoperability" - [Accepted to 1st IAASS Lunar SAR Conference 2022](https://github.com/rrovetto/rrovetto/blob/e854da72dcecfcfd8d9c0ced7d29ab214796555b/affiliations-and-work/papers/PROOF_LunarSARinterop_acceptanceToConference.JPG), but then the conference reneged on including it. [Purchase a copy here](https://booking.setmore.com/scheduleappointment/f18db686-98bb-41dd-9097-35218b2a1091/services/838713ec-ae6b-4b6f-89eb-1ba79acfd888)
+- "Formal Representations of Orbits", 2014, Submitted to various journals, JAO (2016)
+- "The Ontology of Orbits", 2014
+- "The Ontology of Galaxies", submitted to journals in 2014
+
+
 
 - "Ethics in Ontology", 2016-present, [PhilPapers](https://philpapers.org/rec/ROVEIO)
 - "Ethical Aspects of Ontology and Semantic Modeling: Toward a New Discipline" Submitted March 2021 to AAAI / ACM Conference on Artificial Intelligence, Ethics, and Society
@@ -109,34 +117,30 @@ _Other topics_
 - "Ethics of Semantics" in [US2TS 2022](https://us2ts.org/2022/program) ([accepted poster](https://github.com/rrovetto/rrovetto/blob/26fe71b0bbc4452ea08e56464a92afcad4cdb638/affiliations-and-work/papers/PROOF_US2TS_Posters_ethics_space.JPG))
 - "The Ethical Significance of the Principle of Last Resort in Just War Theory", paper submitted to various journals since 2014.
 
-- "Space and Spaceflight Semantics" in [US2TS 2022](https://us2ts.org/2022/program) ([accepted poster](https://github.com/rrovetto/rrovetto/blob/0365ec298bf6f9f6b65bd09283427226183f68f8/affiliations-and-work/papers/PROOF_US2TS-2022_SpaceSpaceflightSemantics_AcceptanceEmail.JPG))
-- "Formal Representations of Orbits", 2014, Submitted to various journals, JAO (2016)
-- "The Ontology of Orbits", 2014
-- "The Ontology of Galaxies", submitted to journals in 2014
 
-- "Clarifying Some Key Concepts and Topics in Generic Ontology Development", submitted (rejected) to FOIS 2022
 - "Myths of Ontology Development and User", Submitted July 2021 to JOWO 2021
   <details><summary> Click to read the Abstract</summary>"Every discipline and topic of interest is, arguably, subject to myths and misinformation. This is no different for semantic technology, artificial intelligence, computational ontology, conceptual modeling, and topics therein. It is reasonable to assume that members of the given discipline have an ethical obligation to clear any myths or misinformation. This short paper lists some myths in ontology development and use, replacing them with the facts or truth of the matter. In the course of doing so, I clarify some clichés or idioms (often used in many disciplines) that have been erroneously used in contemporary ontology engineering. I will explain what I call: the myths of mappings, the myth of (re)use, and the myth of reinvention. This activity can be seen as the start of a new aspect, if not a branch of inquiry, of semantic modeling and technology: the ethics of (and in) semantic and ontology development. As such, it may be a branch of the ethics of AI. A living survey is providing support for the facts expressed here."</details>
 - "Some Myths of Ontology Development and Use" submitted Apr 2021 to FOIS 2021 conference
   <details><summary> Click to read Abstract </summary>"Every discipline and topic of interest is, arguably, subject to myths and misinformation. This is no different for semantic technology, artificial intelligence, computational ontology, conceptual modeling, and topics therein. It is reasonable to assume that members of the given discipline have an ethical obligation to clear any myths or misinformation. This short paper lists some myths in ontology development and use, replacing them with the facts or truth of the matter. In the course of doing so, I clarify some clichés or idioms (often used in many disciplines) that have been erroneously used in contemporary ontology engineering. I will explain what I call: the myths of mappings, the myth of (re)use, and the myth of reinvention. This paper can be the start of a new aspect, if not a branch of inquiry, of ontology and semantic modeling: the ethics of (and in) semantic and ontology development. As such, it may be a branch of the ethics of AI."
 </details>
 
-  - "Clarifying some Concepts and Myths of Ontology Development and Use" submitted (but rejected) to IJCKG 2021
+- "Clarifying some Concepts and Myths of Ontology Development and Use" submitted (but rejected) to IJCKG 2021
 - "Category names for types of ontologies: observations, recommendations, and a redefinition" submitted (but rejected) to FoIKS 2022
+- "Clarifying Some Key Concepts and Topics in Generic Ontology Development", submitted (rejected) to FOIS 2022
 - "Categories for highly abstract ontologies" Feb 2022 submission to
+
 - "Causal Relations for Formal Ontology", 2014, Submitted to various journals, e.g., JAO 2016
 - "Mereocausality and Causal Mereology", submitted to: Analysis, Journal of Philosophy, Review of Metaphysics, Canadian Journal of Philosophy, EU Journal of Philosophy, FOIS, EKAW, ER 2022.
+- 
 - "Dynamic Continuants and Enduring Processes for Ontology" submitted (but rejected) to Journal of Applied Ontology
 - "The Pattern in Process", paper submitted to journals in 2013 and later.
-
-- "Aspects of Lunar Search & Rescue and Interoperability - Semantic Interoperability" - [Accepted to 1st IAASS Lunar SAR Conference 2022](https://github.com/rrovetto/rrovetto/blob/e854da72dcecfcfd8d9c0ced7d29ab214796555b/affiliations-and-work/papers/PROOF_LunarSARinterop_acceptanceToConference.JPG), but then the conference reneged on including it. [Purchase a copy here](https://booking.setmore.com/scheduleappointment/f18db686-98bb-41dd-9097-35218b2a1091/services/838713ec-ae6b-4b6f-89eb-1ba79acfd888)
 
 - "The Parallel between Rescue Boats and their Crew", paper submitted to journal approx 2016.
 - "God as Reason", paper submitted to journals
 
 ## Poetry
 - "Keeper" - a poem about the calling to service in martime search and rescue
-- "Snow Fall"
+- "Snow Fall" - a vision of an ideal life
 
 ## Visual works
 - Boat specification visual aids (single slide format) for three rescue boat designs.

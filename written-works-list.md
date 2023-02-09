@@ -115,6 +115,7 @@ _Other topics_
 - "Clarifying Some Key Concepts and Topics in Generic Ontology Development", submitted (rejected) to FOIS 2022
 - "Clarifying some Concepts and Myths of Ontology Development and Use" submitted (but rejected) to IJCKG 2021
 - "Category names for types of ontologies: observations, recommendations, and a redefinition" submitted (but rejected) to FoIKS 2022
+- "Categories for highly abstract ontologies" Feb 2022 submission to
 - "Causal Relations for Formal Ontology", 2014, Submitted to various journals, e.g., JAO 2016
 - "Mereocausality and Causal Mereology", submitted to: Analysis, Journal of Philosophy, Review of Metaphysics, Canadian Journal of Philosophy, EU Journal of Philosophy, FOIS, EKAW, ER 2022.
 - "Dynamic Continuants and Enduring Processes for Ontology" submitted (but rejected) to Journal of Applied Ontology

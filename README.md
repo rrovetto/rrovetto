@@ -3,7 +3,7 @@ Available worldwide for [hire](https://tinyurl.com/yas7trzy) to do conceptual mo
 _Relevant Specialties are_ (1) ontology & terminology for [space (spaceflight and astronomy)](https://ontospace.wordpress.com) :earth_americas:, (2)  _generic (or abstract/foundational/upper) ontology_, and (3) _[ethical](https://github.com/rrovetto/Ethical-Ontology-Development), methodological and fundamental topics_ in semantic/ontology/conceptual modeling. I also pursue service & training in water search & rescue ([services list](https://tinyurl.com/yck8ah85)), and am available for hire as small-boat captain. Digital photography is also a skill. 
 
 **FOR HIRE - SERVICES & PRODUCTS** - Click the following links to purchase services, articles, or to schedule a meeting. 
-* [Schedule a meeting too establish a Work Partnership, here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/sb83f723d7838e4484783cc5a1c675f0e6eedf99d)
+* [Schedule a meeting to establish a Work Partnership, here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/sb83f723d7838e4484783cc5a1c675f0e6eedf99d)
 * [Purchase Selected Posters & Presenations](https://ontospace.wordpress.com/purchase-poster-or-presentation-documents/).
 * [Ontology Consulting (direct hire)](https://tinyurl.com/34u9w6wx) ---- [Ontology 101 Tutoring (direct hire)](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s7f4dbc7d873cce380b7f73062d5d72f619fe042a)
 * [Ontology Talks/Lectures (direct hire)](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s218822e77fee416ed3085be8eda045d6015d6d24)
@@ -20,7 +20,7 @@ _Relevant Specialties are_ (1) ontology & terminology for [space (spaceflight an
 
 ![image](https://github.com/rrovetto/rrovetto/blob/15ded62f9e6f068ea7e1204f243cbef5b55e1cad/images/WhatICanHelpWith_v1.jpg)
 
-©2022, Robert J. Rovetto. All right reserved. 
+©2023, Robert J. Rovetto. All right reserved. 
 All content on this GitHub profile is not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required. No warranty. No claims to completeness. All content, work and products are subject to revision. All content in this GitHub account is presented "AS IS". The copyright holder / author does not accept any liability and is not liable for any harm resulting from access or use of the content. In proceeding to view or use any associated pages or content by the author, you are accepting these terms.
 
 <!--

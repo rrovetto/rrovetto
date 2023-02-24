@@ -18,6 +18,8 @@ _Relevant Specialties are_ (1) ontology & terminology for [space (spaceflight an
 * [GoGetFunding page 1](https://tinyurl.com/yyoo6z96)
 * [GoGetFunding page 2 - spaceflight knowledge modeling](https://www.patreon.com/user?u=6298778&fan_landing=true)
 
+![image](https://github.com/rrovetto/rrovetto/blob/15ded62f9e6f068ea7e1204f243cbef5b55e1cad/images/WhatICanHelpWith_v1.jpg)
+
 ©2022, Robert J. Rovetto. All right reserved. 
 All content on this GitHub profile is not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required. No warranty. No claims to completeness. All content, work and products are subject to revision. All content in this GitHub account is presented "AS IS". The copyright holder / author does not accept any liability and is not liable for any harm resulting from access or use of the content. In proceeding to view or use any associated pages or content by the author, you are accepting these terms.
 

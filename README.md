@@ -14,13 +14,13 @@ _Relevant Specialties are_ (1) ontology & terminology for [space (spaceflight an
 
 ![image](https://github.com/rrovetto/rrovetto/blob/15ded62f9e6f068ea7e1204f243cbef5b55e1cad/images/WhatICanHelpWith_v1.jpg)
 
-## HOW YOU CAN HELP HERE
-The works described in these GitHub repositories are personal projects, and therefore need support (sponsors, employment or study opportunities, legal & business support) to pursue and complete in an efficient, protected, and sustainable manner. [Contact me](https://ontospace.wordpress.com/contact/) if you would like to formally support one of my projects, or hire me to do work on similar projects.
+## SUPPORT - HOW YOU CAN HELP HERE
+The works described in or via these GitHub repositories are personal projects. They have been unfunded to date and therefore need formal support (sponsors, donations, employment or phd study opportunities, as well as legal & business support) to complete and maintain in a sustainable and protected manner. [Contact me](https://ontospace.wordpress.com/contact/) if you would like to formally support one of my projects, or hire me to do work on similar projects.
 
-⚡If you find value in any of my work (projects, papers, or community service), then please **DONATE, be a Patron, or Sponsor at these links**
+⚡If you find value in any of my work (projects, papers, or community service), then please **DONATE, be a Patron, or Sponsor at these links:**
 * [Donate via PayPal](https://www.paypal.com/donate/?business=JN9YD94DHA87Y&no_recurring=0&item_name=With+your+support%2C+we+can+help+make+spaceflight+safer%2C+and+make+knowledge+about+space+more+accessible.+Thanks.&currency_code=USD)
-* [GoGetFunding page 1](https://tinyurl.com/yyoo6z96)
-* [GoGetFunding page 2 - spaceflight knowledge modeling](https://www.patreon.com/user?u=6298778&fan_landing=true)
+* [GoGetFunding page - for generic knowledge modeling](https://tinyurl.com/yyoo6z96)
+* [GoGetFunding page - for spaceflight knowledge modeling](https://www.patreon.com/user?u=6298778&fan_landing=true)
 
 ©2023, Robert J. Rovetto. All right reserved. 
 All content on this GitHub account/profile, including each specific repository, is not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution is required. No warranty. No claims to completeness. All content, work and products are subject to revision. All content, work, products in this GitHub account is presented "AS IS". The copyright holder / author (Robert J. Rovetto) does not accept any liability and is not liable for any harm resulting from access or use of the content. By proceeding to view or use any associated pages or content in or via this GitHub account, you are accepting these terms.

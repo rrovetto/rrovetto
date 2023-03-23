@@ -7,22 +7,22 @@ Thanks for visiting.
 
 **Specialties include:**
 - (1) ontology & terminology for [space (spaceflight and astronomy)](https://ontospace.wordpress.com) :earth_americas:, 
-- (2)  _generic (or abstract/foundational/upper) ontology_, and 
-- (3) _[ethical](https://github.com/rrovetto/Ethical-Ontology-Development), methodological and fundamental topics_ in semantic/ontology/conceptual modeling. 
+- (2) generic (abstract/foundational/top/upper level) ontology, 
+- (3) [Ethics](https://github.com/rrovetto/Ethical-Ontology-Development), and methodological topics in semantic/ontology/conceptual modeling. 
 
 **FOR HIRE - SAMPLE SERVICES & PRODUCTS** - Click the following links to purchase services, articles, or to schedule a meeting. 
-* [Purchase Selected Posters & Presenations on space topics](https://ontospace.wordpress.com/purchase-poster-or-presentation-documents/).
+* [Purchase Posters & Presenations on space topics](https://ontospace.wordpress.com/purchase-poster-or-presentation-documents/).
 * [Consulting (Direct hire)](https://tinyurl.com/34u9w6wx) 
 * [Ontology 101 Tutoring (Direct hire)](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s7f4dbc7d873cce380b7f73062d5d72f619fe042a)
 * [Ontology Talks/Lectures (Direct hire)](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s218822e77fee416ed3085be8eda045d6015d6d24)
   ([Read this partial list of ontology courses](https://www.slideshare.net/RobertRovetto/ontology-courses-education), and [this list of ontology services](https://www.slideshare.net/RobertRovetto/ontology-services-238070099)).
 * [Creating Concept & Graph Diagrams](https://tinyurl.com/diagramsRov)
 * [Catalog of ontology definitions](https://purl.org//rrovetto/CatalogOntologyDefinitions)
-* [Project: space knowledge modeling/ontology](https://ontospace.wordpress.com/)
+* [Project: Space knowledge modeling/ontology](https://ontospace.wordpress.com/)
 * [Catalog of spaceflight terminology](https://github.com/rrovetto/Astronautics-Terminology)
 * [Catalog of space vocabularies](https://tinyurl.com/SpaceVocabulariesCatalog)
-## SUPPORT - HOW YOU CAN HELP HERE
-The works described in or via these GitHub repositories are personal projects. They have been unfunded to date and therefore need formal support (sponsors, donations, employment or phd study opportunities, as well as legal & business support) to complete and maintain in a sustainable and protected manner. [Contact me](https://ontospace.wordpress.com/contact/) if you would like to formally support one of my projects, or hire me to do work on similar projects.
+## SUPPORT - HOW YOU CAN HELP
+The works described in or via these GitHub repositories are personal projects. They have been unfunded to date and therefore need formal support (financial, employment & study opportunities, mentorhsip, as well as legal & business support) to complete and maintain in a sustainable and protected manner. [Contact me](https://ontospace.wordpress.com/contact/) if you would like to formally support one of my projects, or hire me to do work on similar projects.
 
 ⚡**If you find value in any of my work (projects, papers, or community service), then please DONATE:**
 * [Donate via PayPal](https://www.paypal.com/donate/?business=JN9YD94DHA87Y&no_recurring=0&item_name=With+your+support%2C+we+can+help+make+spaceflight+safer%2C+and+make+knowledge+about+space+more+accessible.+Thanks.&currency_code=USD)

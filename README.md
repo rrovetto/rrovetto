@@ -1,4 +1,4 @@
-Available worldwide for [hire](https://tinyurl.com/yas7trzy) to do conceptual modeling, formal [ontology](https://ontologforum.com/index.php/RobertRovetto), basic model-based systems engineering (MBSE) modeling, semantic data modeling, conceptual analysis, terminology and metadata (development, refinement, harmonization), concept diagram development, as well as writing (resarch, academic, reports, grants, proposals), philosophy, ethics, interdisicplinary space research, maritime operations & safety research. **My output has included** [research articles, (inter)national standards, agency technical documents, and reports](https://orcid.org/0000-0003-3835-7817), other [written works](https://github.com/rrovetto/rrovetto/blob/main/written-works-list.md), as well as contributions in both (inter)national committees and organizations on knowledge modeling (terminology, metadata, ontology, semantic technology), aerospace, maritime safety, and (inter)national standards. **I can help create or refine terminologies & ontologies**; and  **clarify key concepts** in these disciplines, as well as ethical aspects thereof. I'm also actively open to study (as PhD student) options, and business partnership ventures. I further pursue service in water search & rescue ([services list](https://tinyurl.com/yck8ah85)), and am available for hire as small-boat captain. Finally, digital photography is also a skill (sample available on request).**(Authorized to work in US, EU).**
+Available worldwide for [hire](https://tinyurl.com/yas7trzy) to do conceptual modeling, formal [ontology](https://ontologforum.com/index.php/RobertRovetto), basic model-based systems engineering (MBSE) modeling, semantic data modeling, conceptual analysis, terminology and metadata (development, refinement, harmonization), concept diagram development, as well as writing (resarch, academic, reports, grants, proposals), philosophy, ethics, interdisicplinary space research, maritime operations & safety research. **My output has included** [research articles, (inter)national standards, agency technical documents, and reports](https://orcid.org/0000-0003-3835-7817), other [written works](https://github.com/rrovetto/rrovetto/blob/main/written-works-list.md), as well as contributions in both (inter)national committees and organizations on knowledge modeling (terminology, metadata, ontology, semantic technology), aerospace, maritime safety, and (inter)national standards. **I can create, refine and curate terminologies & ontologies**; and **clarify key concepts** , as well as explain ethical aspects thereof. I'm also actively open to study (as PhD student) options, and business partnership ventures. I also pursue service in water search & rescue ([boating service list](https://tinyurl.com/yck8ah85)), and am available for hire as small-boat captain. Finally, digital photography is also a skill (sample available on request).**(Authorized to work in US, EU).**
 
 **📫 [CONTACT ME](https://ontospace.wordpress.com/contact/)** 💬  [Or directly schedule a meeting to establish a Work Partnership, here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/sb83f723d7838e4484783cc5a1c675f0e6eedf99d).  -- 
 Thanks for visiting.
@@ -10,17 +10,17 @@ Thanks for visiting.
 - (2) generic (abstract/foundational/top/upper level) ontology, 
 - (3) [Ethics](https://github.com/rrovetto/Ethical-Ontology-Development), and methodological topics in semantic/ontology/conceptual modeling. 
 
-**FOR HIRE - SAMPLE SERVICES & PRODUCTS** - Click the following links to purchase services, articles, or to schedule a meeting. 
+**FOR HIRE - SERVICES & PRODUCTS** - Click the following links to purchase services, content, or to schedule a meeting. 
 * [Purchase Posters & Presenations on space topics](https://ontospace.wordpress.com/purchase-poster-or-presentation-documents/).
 * [Consulting (Direct hire)](https://tinyurl.com/34u9w6wx) 
 * [Ontology 101 Tutoring (Direct hire)](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s7f4dbc7d873cce380b7f73062d5d72f619fe042a)
 * [Ontology Talks/Lectures (Direct hire)](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s218822e77fee416ed3085be8eda045d6015d6d24)
   ([Read this partial list of ontology courses](https://www.slideshare.net/RobertRovetto/ontology-courses-education), and [this list of ontology services](https://www.slideshare.net/RobertRovetto/ontology-services-238070099)).
-* [Creating Concept & Graph Diagrams](https://tinyurl.com/diagramsRov)
-* [Catalog of ontology definitions](https://purl.org//rrovetto/CatalogOntologyDefinitions)
+* [Create Concept & Graph Diagrams](https://tinyurl.com/diagramsRov)
+* [Purchase Catalog of ontology definitions](https://purl.org//rrovetto/CatalogOntologyDefinitions)
+* [Purchase Catalog of spaceflight terminology](https://github.com/rrovetto/Astronautics-Terminology)
+* [Purchase Catalog of space vocabularies](https://tinyurl.com/SpaceVocabulariesCatalog)
 * [Project: Space knowledge modeling/ontology](https://ontospace.wordpress.com/)
-* [Catalog of spaceflight terminology](https://github.com/rrovetto/Astronautics-Terminology)
-* [Catalog of space vocabularies](https://tinyurl.com/SpaceVocabulariesCatalog)
 ## SUPPORT - HOW YOU CAN HELP
 The works described in or via these GitHub repositories are personal projects. They have been unfunded to date and therefore need formal support (financial, employment & study opportunities, mentorhsip, as well as legal & business support) to complete and maintain in a sustainable and protected manner. [Contact me](https://ontospace.wordpress.com/contact/) if you would like to formally support one of my projects, or hire me to do work on similar projects.
 

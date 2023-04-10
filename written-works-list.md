@@ -109,6 +109,9 @@ _Space + Conceptual modeling_
 - "The Ontology of Orbits", 2014
 - "The Ontology of Galaxies", submitted to journals in 2014
 
+_Ethics & War / Philosophy of War_
+- "The Ethical Significance of the Principle of Last Resort in Just War Theory", paper submitted to various journals since 2014.
+
 _Ethics + Semantic modeling / Philosophy of War_
 - "Ethics in Ontology", 2016-present, [PhilPapers](https://philpapers.org/rec/ROVEIO)
 - "Ethical Aspects of Ontology and Semantic Modeling: Toward a New Discipline" Submitted March 2021 to AAAI / ACM Conference on Artificial Intelligence, Ethics, and Society
@@ -116,7 +119,6 @@ _Ethics + Semantic modeling / Philosophy of War_
 - "Ethical Aspects of Ontology Development and Use", submitted (but rejected) to IJCKG 2021 - [Purchase here](https://booking.setmore.com/scheduleappointment/f18db686-98bb-41dd-9097-35218b2a1091/services/52c02ada-fdff-4ba4-9e78-d4c1f3de9f5d)
 - "Ethical aspects of Knowledge Engineering - Toward the Ethics of Ontology", submitted (but rejected) to EKAW2022.
 - "Ethics of Semantics" in [US2TS 2022](https://us2ts.org/2022/program) ([accepted poster](https://github.com/rrovetto/rrovetto/blob/26fe71b0bbc4452ea08e56464a92afcad4cdb638/affiliations-and-work/papers/PROOF_US2TS_Posters_ethics_space.JPG))
-- "The Ethical Significance of the Principle of Last Resort in Just War Theory", paper submitted to various journals since 2014.
 
 - "Myths of Ontology Development and User", Submitted July 2021 to JOWO 2021
   <details><summary> Click to read the Abstract</summary>"Every discipline and topic of interest is, arguably, subject to myths and misinformation. This is no different for semantic technology, artificial intelligence, computational ontology, conceptual modeling, and topics therein. It is reasonable to assume that members of the given discipline have an ethical obligation to clear any myths or misinformation. This short paper lists some myths in ontology development and use, replacing them with the facts or truth of the matter. In the course of doing so, I clarify some clichés or idioms (often used in many disciplines) that have been erroneously used in contemporary ontology engineering. I will explain what I call: the myths of mappings, the myth of (re)use, and the myth of reinvention. This activity can be seen as the start of a new aspect, if not a branch of inquiry, of semantic modeling and technology: the ethics of (and in) semantic and ontology development. As such, it may be a branch of the ethics of AI. A living survey is providing support for the facts expressed here."</details>

@@ -61,7 +61,7 @@ Terminology Working Group"](https://comspoc.com/Resources/Papers/20211019_Recomm
 - "Space Law Ontology Project", R.J.Rovetto (Dec 2020)
 - "[Report 1 of the AIAA Space Traffic Management Working Group’s Task-group 1 Lexicon activity](https://engage.aiaa.org/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=15a215bc-df86-deda-6b32-86f4eb173cff&forceDialog=0), A.Peura, R.Rovetto. Nov 2020"
 
-## PowerPoint & Poster Presentations - Virtual/Online and in-person at Conferences 
+## PowerPoint & Poster Presentations - Virtual/Online and In-person 
 _Spaceflight-related_: https://ontospace.wordpress.com/presentations-posters/
 
 - "Spaceflight & Maritime Operations AI Knowledge Representation", Rovetto, 30 Nov 2022, PPT Presentation made in a confidential meeting with Field Science & Technology Advisors (S&Ts) Information Analysis Centers (DOD IAC) of J8 US Combatant Commands. TTD.

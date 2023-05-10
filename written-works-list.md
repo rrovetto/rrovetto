@@ -105,6 +105,7 @@ _Space + Conceptual modeling_
 - "AstroPortal: An ontology repository concept for astronomy, astronautics and other space topics" submitted (but rejected) to IJCKG 2021
 - "Space and Spaceflight Semantics" in [US2TS 2022](https://us2ts.org/2022/program) ([accepted poster](https://github.com/rrovetto/rrovetto/blob/0365ec298bf6f9f6b65bd09283427226183f68f8/affiliations-and-work/papers/PROOF_US2TS-2022_SpaceSpaceflightSemantics_AcceptanceEmail.JPG))
 - "Aspects of Lunar Search & Rescue and Interoperability - Semantic Interoperability" - [Accepted to 1st IAASS Lunar SAR Conference 2022](https://github.com/rrovetto/rrovetto/blob/e854da72dcecfcfd8d9c0ced7d29ab214796555b/affiliations-and-work/papers/PROOF_LunarSARinterop_acceptanceToConference.JPG), but then the conference reneged on including it. [Purchase a copy here](https://booking.setmore.com/scheduleappointment/f18db686-98bb-41dd-9097-35218b2a1091/services/838713ec-ae6b-4b6f-89eb-1ba79acfd888)
+- (Course proposal) "Organizing and Accessing Space Data with AI Knowledge Modeling", Short-course proposal submission to AMOS 2023.
 - "Formal Representations of Orbits", 2014, Submitted to various journals, JAO (2016)
 - "The Ontology of Orbits", 2014
 - "The Ontology of Galaxies", submitted to journals in 2014

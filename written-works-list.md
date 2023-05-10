@@ -133,7 +133,11 @@ _Ethics + Semantic modeling / Philosophy of War_
 
 _Formal Ontology + Philosophy of Causality_
 - "Causal Relations for Formal Ontology", 2014, Submitted to various journals, e.g., JAO 2016
-- "Mereocausality and Causal Mereology", submitted to: Analysis, Journal of Philosophy, Review of Metaphysics, Canadian Journal of Philosophy, EU Journal of Philosophy, FOIS, EKAW, ER 2022.
+- "Mereocausality and Causal Mereology", submitted on/to: 
+-   Analysis, Journal of Philosophy, Review of Metaphysics, Canadian Journal of Philosophy, EU Journal of Philosophy, FOIS, EKAW, ER 2022.
+-   _Inquiry_, 2021, but rejected
+-   _European Journal of Philosophy_, 2021, but rejected
+- "Mereocausality & Causal Mereology: Towards a new formal concept", submitted to 7th FOUST workshop 2023. 
 
 - "Dynamic Continuants and Enduring Processes for Ontology" submitted (but rejected) to Journal of Applied Ontology
 - "The Pattern in Process", paper submitted to journals in 2013 and later.

@@ -159,16 +159,18 @@ _Misc._
 ## Visual works
 - Boat specification visual aids (single slide format) for three rescue boat designs.
 - The above-mentioned boat manual, and ATON manual, contain visual content
-- _Various diagrams_: graph diagrams, etc. Sample available on request. Various visual tools used.
+- "[Diagram: The ontology landscape in a broader context](https://github.com/rrovetto/Ontology-Development-Guidelines/blob/master/TheOntologyLandscape.md)
+- _Various diagrams_ on topics in: ontology, spaceflight, maritime operations & safety, emergency response, misc. Sample available on request.
+- 
 
-## Drafts
+## Drafts / In-progress
 - "A Purpose-driven Life", PPT presentation, visual slide, and paper
 - "The Creative Mind of The Creative Universe"
 - "Saving our Higher Thought - The Necessity of Preserving the Classics"
-- "The toxicity of tipping"
+- "The Toxicity of Tipping"
 - "On Tipping - A Socratic Dialog (or what Socrates would say)"
 - "The Toxicity of Texting"
-- "The toxicity of contemporary & post-COVID hiring and interview practices"
+- "The Toxicity of Contemporary & post-COVID hiring and interview practices"
 - "A standard vocabulary for astronautics: high-level concepts"
 - "Clarifying concepts of spaceflight"
 - Various other papers on: spaceflight concepts, ontology/conceptual/semantic modeling for space, misc.

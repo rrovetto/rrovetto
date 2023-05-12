@@ -96,7 +96,7 @@ _Other topics_
 - Misidentification and the Self", PPT presentation at the 2011 Anthropology Graduate Student Association, SUNY at Buffalo. 
 - "Developing the U.S. National Water Safety Action Plan (USNWSAP) Activities of the Rescue/CPR group", Abstract and PPT presentation, 2023
 
-## Submissions only (either not published, accepted to venue but not presented, not accepted to venue, etc.)
+## Submissions only (either not published, accepted to venue but not presented, not accepted to venue, pending, etc.)
 _Space + Conceptual modeling_
 - Abstract for Space knowledge graphs and modeling, submitted to [LING4S Workshop](https://indico.esa.int/event/442/) but rejected
 - "Conceptual, semantic and ontological modeling in MBSE for astronautics", submitted to [ESA MBSE workshop 2022](https://indico.esa.int/event/407/) 
@@ -109,6 +109,7 @@ _Space + Conceptual modeling_
 - "Formal Representations of Orbits", 2014, Submitted to various journals, JAO (2016)
 - "The Ontology of Orbits", 2014
 - "The Ontology of Galaxies", submitted to journals in 2014
+- "Towards a space industry ontology suite", poster abstract submission to Ontocommons 2nd Horizontal Workshop, May 2023
 
 _Ethics & War / Philosophy of War_
 - "The Ethical Significance of the Principle of Last Resort in Just War Theory", paper submitted to various journals since 2014.
@@ -120,6 +121,7 @@ _Ethics + Semantic modeling / Philosophy of War_
   <details><summary>Click to read Abstract</summary>"Ethical considerations of ontology development and use, and semantic modeling, has not been treated, let alone given any significant attention. By contrast, the ethics of artificial intelligence is of increasing importance as technology plays a greater role in our lives. I assert that semantic aspects, in particular, must be given ethical and moral attention. This paper briefly introduces concepts for what can be a new field of inquiry with both theoretical and practical value: the ethics of ontology and semantic modeling, development and use."</details>
 - "Ethical Aspects of Ontology Development and Use", submitted (but rejected) Oct 2021 to IJCKG 2021 - [Purchase here](https://booking.setmore.com/scheduleappointment/f18db686-98bb-41dd-9097-35218b2a1091/services/52c02ada-fdff-4ba4-9e78-d4c1f3de9f5d) <details><summary>Click to read Abstract</summary>"This paper presents some ethical aspects of computational ontology development and use. It lists specific topics to be pursued in a proposed ethics of computational ontology research discipline, which may be a branch of the ethics of artificial intelligence or information ethics. Example topics are ontological assumptions, transparency, ontology monopoly, etc. A focus is with ethical aspects of the most abstract or generic models, i.e., so-called generic, foundational, core, top level, or upper ontologies. Although this paper emphasizes computational ontologies, the presented points may be applicable to other knowledge organization systems, e.g., taxonomies, controlled vocabularies, semantic (data) models, knowledge graphs, conceptual (data) models, knowledge models, etc. As such a broader name for this ethical inquiry may be the ‘ethics of knowledge modeling’. The ethics of ontology has both theoretical and practical relevance: as a topic that is has not been given serious attention, and given applicable themes and concerns such as data sharing, privacy, classification, militarization, consent, ideology, etc."</details>
 - "Ethical aspects of Knowledge Engineering - Toward the Ethics of Ontology", submitted (but rejected) to EKAW2022.
+- "The ethics of ontology", poster abstract submitted to Ontocommons 2nd Horizontal Workshop, May 2023
 
 - "Myths of Ontology Development and User", Submitted July 2021 to JOWO 2021
   <details><summary> Click to read the Abstract</summary>"Every discipline and topic of interest is, arguably, subject to myths and misinformation. This is no different for semantic technology, artificial intelligence, computational ontology, conceptual modeling, and topics therein. It is reasonable to assume that members of the given discipline have an ethical obligation to clear any myths or misinformation. This short paper lists some myths in ontology development and use, replacing them with the facts or truth of the matter. In the course of doing so, I clarify some clichés or idioms (often used in many disciplines) that have been erroneously used in contemporary ontology engineering. I will explain what I call: the myths of mappings, the myth of (re)use, and the myth of reinvention. This activity can be seen as the start of a new aspect, if not a branch of inquiry, of semantic modeling and technology: the ethics of (and in) semantic and ontology development. As such, it may be a branch of the ethics of AI. A living survey is providing support for the facts expressed here."</details>
@@ -138,6 +140,7 @@ _Formal Ontology + Philosophy of Causality_
 -   _Inquiry_, 2021, but rejected
 -   _European Journal of Philosophy_, 2021, but rejected
 - "Mereocausality & Causal Mereology: Towards a new formal concept", submitted to 7th FOUST workshop 2023. 
+- "Mereocausality: A new concept for ontology.", poster submission to Ontocommonss 2nd Horizontal Workshop, May 2023
 
 - "Dynamic Continuants and Enduring Processes for Ontology" submitted (but rejected) to Journal of Applied Ontology
 - "The Pattern in Process", paper submitted to journals in 2013 and later.

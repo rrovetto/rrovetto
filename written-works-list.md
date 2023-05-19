@@ -96,16 +96,16 @@ _Other topics_
 - Misidentification and the Self", PPT presentation at the 2011 Anthropology Graduate Student Association, SUNY at Buffalo. 
 - "Developing the U.S. National Water Safety Action Plan (USNWSAP) Activities of the Rescue/CPR group", Abstract and PPT presentation, 2023
 
-## Submissions only (either not published, accepted to venue but not presented, not accepted to venue, pending, etc.)
+## Submissions only (either not published, rejected, accepted but not presented, or pending, etc.)
 _Space + Conceptual modeling_
-- Abstract for Space knowledge graphs and modeling, submitted to [LING4S Workshop](https://indico.esa.int/event/442/) but rejected
-- "Conceptual, semantic and ontological modeling in MBSE for astronautics", submitted to [ESA MBSE workshop 2022](https://indico.esa.int/event/407/) 
 - "When a space object is not a space object: Limitations of the term", 2022, [Accepted in 44th COSPAR Scientific Assembly (Athens, Greece)](https://github.com/rrovetto/rrovetto/blob/26fe71b0bbc4452ea08e56464a92afcad4cdb638/affiliations-and-work/papers/AcceptanceLetter_PSSH.1-0003-22_COSPAR_SpaceObj_Rovetto.pdf)
+- "Space and Spaceflight Semantics" in [US2TS 2022](https://us2ts.org/2022/program) ([accepted poster](https://github.com/rrovetto/rrovetto/blob/0365ec298bf6f9f6b65bd09283427226183f68f8/affiliations-and-work/papers/PROOF_US2TS-2022_SpaceSpaceflightSemantics_AcceptanceEmail.JPG))
 - "Visioning a family of knowledge representations for Orbit Data – Research & Development of additional formats for the Two-line Element Set, Orbit Data Message, and other Space Situational Awareness Content", 2022, submitted to (rejected) IAC 2022. 
 - "AstroPortal: An ontology repository concept for astronomy, astronautics and other space topics" submitted (but rejected) to IJCKG 2021
-- "Space and Spaceflight Semantics" in [US2TS 2022](https://us2ts.org/2022/program) ([accepted poster](https://github.com/rrovetto/rrovetto/blob/0365ec298bf6f9f6b65bd09283427226183f68f8/affiliations-and-work/papers/PROOF_US2TS-2022_SpaceSpaceflightSemantics_AcceptanceEmail.JPG))
 - "Aspects of Lunar Search & Rescue and Interoperability - Semantic Interoperability" - [Accepted to 1st IAASS Lunar SAR Conference 2022](https://github.com/rrovetto/rrovetto/blob/e854da72dcecfcfd8d9c0ced7d29ab214796555b/affiliations-and-work/papers/PROOF_LunarSARinterop_acceptanceToConference.JPG), but then the conference reneged on including it. [Purchase a copy here](https://booking.setmore.com/scheduleappointment/f18db686-98bb-41dd-9097-35218b2a1091/services/838713ec-ae6b-4b6f-89eb-1ba79acfd888)
-- (Course proposal) "Organizing and Accessing Space Data with AI Knowledge Modeling", Short-course proposal submission to AMOS 2023.
+- Abstract for Space knowledge graphs and modeling, submitted to [LING4S Workshop](https://indico.esa.int/event/442/) but rejected
+- "Conceptual, semantic and ontological modeling in MBSE for astronautics", submitted to but rejected by [ESA MBSE workshop 2022](https://indico.esa.int/event/407/) 
+- (Course proposal) "Organizing and Accessing Space Data with AI Knowledge Modeling", Short-course proposal submission to AMOS 2023, but rejected.
 - "Formal Representations of Orbits", 2014, Submitted to various journals, JAO (2016)
 - "The Ontology of Orbits", 2014
 - "The Ontology of Galaxies", submitted to journals in 2014

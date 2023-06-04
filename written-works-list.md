@@ -90,6 +90,14 @@ _Spaceflight-related_: https://ontospace.wordpress.com/presentations-posters/
   - PPT presented to members of ESA
   - PPT presented to a professor in Spain, which was pitched to gov’t for funding
 
+_Maritime_
+- "Maritime SAR Project Concepts: Toward a life goal of service in SAR" (PowerPoint presentation online x3, August 2019)
+-   Presented to New Zealand Search and Rescue professional, B.A. (name available on request)
+-   Presented to New Zealand Search and Rescue professional, D.G. (name available on request)
+-   Presented to Canadian Marine Search and Rescue former CEO, and Red Cross professional, P.Q. (name available on request)
+-   Presented to Norway Sea Rescue professional E.H (name available on request)
+
+_Ontology_
 - "Introduction to Generic Ontologies", Presented on April 10, 2018 at University Koblenz-Landau, Germany, Institute for Web Science and Technologies.
 
 _Other topics_

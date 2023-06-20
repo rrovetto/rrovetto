@@ -22,7 +22,7 @@ Thanks for visiting.
 * [Purchase Catalog of space vocabularies](https://tinyurl.com/SpaceVocabulariesCatalog)
 * [Project: Space knowledge modeling/ontology](https://ontospace.wordpress.com/)
 ## SUPPORT - HOW YOU CAN HELP
-The works described in or via these GitHub repositories are personal projects. They have been unfunded to date and therefore need formal support (financial, employment & study opportunities, mentorhsip, as well as legal & business support) to complete and maintain in a sustainable and protected manner. [Contact me](https://ontospace.wordpress.com/contact/) if you would like to formally support one of my projects, or hire me to do work on similar projects.
+The works described in or via these GitHub repositories are personal projects. Unless otherwise indicated, they have been unfunded to date and therefore need formal support (financial, employment & study opportunities, mentorhsip, as well as legal & business support) to complete and maintain in a sustainable and protected manner. [Contact me](https://tinyurl.com/hm8wu2sa) if you would like to formally support one of my projects, or hire me to do work on similar projects.
 
 ⚡**If you find value in any of my work (projects, papers, or community service), then please DONATE:**
 * [Donate via PayPal](https://www.paypal.com/donate/?business=JN9YD94DHA87Y&no_recurring=0&item_name=With+your+support%2C+we+can+help+make+spaceflight+safer%2C+and+make+knowledge+about+space+more+accessible.+Thanks.&currency_code=USD)

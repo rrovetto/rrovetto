@@ -156,6 +156,11 @@ _Formal Ontology + Philosophy of Causality_
 _Ontology (misc.)_
 - "Categories for highly abstract ontologies: Limitations and a Recommendation", submitted to FOUST workshop in FOIS 2023 conference (but rejected).
 
+_Knowledge Representation_
+- "Toward a formal representation of responsibility", 2023
+  <details> <summary>Click to read Abstract</summary>This work takes steps toward a formal representation of responsibility for both philosophical any technical communities. Relevant communities include: artificial intelligence(AI) (e.g., knowledge representation and reasoning), conceptual modeling, formal ontology, ethics of AI, etc. Preliminary conceptual work toward symbolically defining responsibility for computational modeling is discussed. It begins by drawing on intuitions of responsibility for persons, and then extending the analysis to describe responsibility associated with computational agents (i.e. machines). First-order predicate logic is used for symbolically characterizing responsibility as an n-ary relation which takes into account other essential aspects and factors. Those aspects are included as other concepts, i.e., arguments in the formalization, each of which is discussed. This demonstrates the complexity and interdisciplinary nature of responsibility (or our concepts thereof), as well as the variety of potential modeling approaches and formal representations that are possible. As a presently unfunded research project, interested parties in formally supporting/collaborating are encouraged to make contact with the author. </details>
+
+
 _Misc._ 
 - "The Parallel between Rescue Boats and their Crew", paper submitted to journal approx 2016.
 - "God as Reason", paper submitted to journals

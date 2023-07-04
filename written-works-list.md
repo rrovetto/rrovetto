@@ -174,8 +174,12 @@ _Misc._
 - The above-mentioned boat manual, and ATON manual, contain visual content
 - "[Diagram: The ontology landscape in a broader context](https://github.com/rrovetto/Ontology-Development-Guidelines/blob/master/TheOntologyLandscape.md)
 - _Various diagrams_ on topics in: ontology, spaceflight, maritime operations & safety, emergency response, misc. Sample available on request.
-- 
-
+- Manual Ontology Development methodology
+  - Knowledge Representation Tasks
+  - Formalizing vocabulary & Definitions development
+- Terminology & Semantic Harmonization
+- Types of KOS spectrum
+ 
 ## Drafts / In-progress
 - "A Purpose-driven Life", PPT presentation, visual slide, and paper
 - "The Creative Mind of The Creative Universe"

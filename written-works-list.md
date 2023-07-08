@@ -90,6 +90,8 @@ _Spaceflight-related_: https://ontospace.wordpress.com/presentations-posters/
   - PPT presented to members of ESA
   - PPT presented to a professor in Spain, which was pitched to gov’t for funding
 
+- "[Developing an OAIS based Interoperability Framework](https://indico.cern.ch/event/1188041/contributions/5310113/)", D. Giaretta1, M. Kearney, J. Garrett, J.S. Hughes, T. Longstreth, R. Svanetti, R. Rovetto, At [Ensuring Long-Term Preservation and Adding Value to Scientific and Technical Data (PV2023)](https://indico.cern.ch/event/1188041/), 2 May 2023.  
+[Poster PDF](https://indico.cern.ch/event/1188041/contributions/5310113/attachments/2636297/4560910/5296%20-%20GIARETTA%20-OAIS-IF-v2.pdf)
 _Maritime_
 - "Maritime SAR Project Concepts: Toward a life goal of service in SAR" (PowerPoint presentation online x3, August 2019)
 -   Presented to New Zealand Search and Rescue professional, B.A. (name available on request)

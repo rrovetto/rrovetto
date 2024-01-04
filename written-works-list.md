@@ -107,9 +107,10 @@ _Other topics_
 - Misidentification and the Self", PPT presentation at the 2011 Anthropology Graduate Student Association, SUNY at Buffalo. 
 - "Developing the U.S. National Water Safety Action Plan (USNWSAP) Activities of the Rescue/CPR group", Abstract and PPT presentation, 2023
 
-## Submissions only (either not published, rejected, accepted but not presented, or pending, etc.)
-_Space + Conceptual modeling_
-- Knowledge Representation for Space Sciences<details><summary>Click to read Abstract</summary>
+## Submissions only
+The following are submissions only, i.e., submissions that are either unpublished, rejected, accepted but not presented, or pending, etc.
+### Space + Conceptual modeling
+- Knowledge Representation for Space Sciences (2023)<details><summary>Click to read Abstract</summary>
 Presently, Artificial Intelligence (AI) is a trending topic as well as a growing concern. Knowledge representation and reasoning (KRR) is a branch of AI which applies formal methods to computationally capture content of various sorts. Related to KRR is so-called semantic technology and modeling, broadly construed to include various semantic systems, more commonly called knowledge organization systems (KOS). This presentation describes an interdisciplinary project and framework concept, exploring these approaches for space sciences, broadly construed to include astronomy-related (including Earth and solar science) as well as astronautical-related (spaceflight) topics. This includes the development of semantic models, e.g., ontologies, taxonomies, classifications, for application to space data, open data and stakeholder content. Specifically, semantic models for near-Earth space environments, as well as scientific content, and also applications (such as orbital debris remediation and data-sharing) are particular models. The project has described a knowledge network, a phrase sometimes used in the concept of a knowledge commons. Moreover, various development tracks for the project have been identified, demonstrating a valuable, broadly-applicable, and innovative vision for helping science flourish. In line with the session scope and description, the project seeks to research and develop the potential of such approaches (KRR, KOS, etc.) to, among other things, "integrate more data about the complex world". Related works by the author can be seen in affiliate organizations and events, such as in 2022 ESIP conference; and others via the project website https://ontospace.wordpress.com. Interested parties are strongly encouraged to contact the author.
 Plain-Language Summary:
 There's vast amounts of existing data, growing volumes of data, and increasing complexity in the space-related disciplines. This presentation describes an interdisciplinary project that, in part, hopes to help leverage and understand that data for various applications. It hopes to do so by researching topics in artificial intelligence, and developing systems to classify, describe, and link space content. This also hopes to express space knowledge in the process. </details>
@@ -126,6 +127,17 @@ There's vast amounts of existing data, growing volumes of data, and increasing c
 - "The Ontology of Galaxies", submitted to journals in 2014
 - "A Space Industry Ontology Suite", poster abstract submission to Ontocommons 2nd Horizontal Workshop, May 2023. ([Video](https://www.youtube.com/watch?v=uCQUQsJmEOw): time-index 52:20)
 - "Space Vocabularies: Research, Development, Alignment, and Formalization (RAFD) in Astronomy and Astronautics" (Abstract submitted to 2023 Vocabulary Symposium of Australia.
+
+### Maritime
+_World Maritime Rescue Congress 2019_
+- Know Your Boat - Improving Maritime SRU Familiarity with Visual Aids
+- Preparation and Training for FIrst-responders to Respond to Water and/or Ice Rescue Incidents (w/ G.Dworkin)
+- The Spirit of SAR - Increasing Inclusiveness and Fairness in Maritime SAR - With Selected Experiences
+- Consolidating and Sharing maritime SAR Information for Improved Training - One project proposal and One call for contributions
+- Improving Maritime Search and Rescue Terminology - The PWC Case-study  (w/ T.Hargett)
+- Knowledge-based approaches for Maritime SAR data: A Call for Partners
+_Other_
+- "Search and Rescue Ontology - Knowledge-based support for search and rescue", poster submission, ESIP meeting 2020.
 
 _Ethics & War / Philosophy of War_
 - "The Ethical Significance of the Principle of Last Resort in Just War Theory", paper submitted to various journals since 2014.

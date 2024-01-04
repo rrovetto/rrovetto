@@ -129,11 +129,11 @@ There's vast amounts of existing data, growing volumes of data, and increasing c
 - "Space Vocabularies: Research, Development, Alignment, and Formalization (RAFD) in Astronomy and Astronautics" (Abstract submitted to 2023 Vocabulary Symposium of Australia.
 
 ### Maritime
-_World Maritime Rescue Congress 2019_
+_World Maritime Rescue Congress 2019_ - Contact me for photo and video evidence of the submission. 
 - Know Your Boat - Improving Maritime SRU Familiarity with Visual Aids
 - Preparation and Training for FIrst-responders to Respond to Water and/or Ice Rescue Incidents (w/ G.Dworkin)
 - The Spirit of SAR - Increasing Inclusiveness and Fairness in Maritime SAR - With Selected Experiences
-- Consolidating and Sharing maritime SAR Information for Improved Training - One project proposal and One call for contributions
+- [Consolidating and Sharing maritime SAR Information for Improved Training - One project proposal and One call for contributions](https://github.com/rrovetto/rrovetto/blob/02a307419fce695d3fc5c0087b9a13d85dd5ac8c/affiliations-and-work/submissions/WMRC2019_Abstracts_proof1_rovetto.png)
 - Improving Maritime Search and Rescue Terminology - The PWC Case-study  (w/ T.Hargett)
 - Knowledge-based approaches for Maritime SAR data: A Call for Partners
 _Other_

@@ -1,0 +1,1 @@
+This contains evidence of grant proposal work submitted to LLoyds Register, a proposal on my [maritime search & rescue database](https://github.com/rrovetto/maritime-sar-knowledgebase). It is related to my 2019 submitted work to the World Maritimem Rescue Congress.

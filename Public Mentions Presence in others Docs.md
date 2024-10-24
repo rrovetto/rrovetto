@@ -16,6 +16,9 @@ The following are public-facing documents, websites, and other media, that menti
 - In [academic paper on formal ontology](http://ontology.buffalo.edu/smith/articles/Material_Entities.pdf)
 - In [release notes of a generic/upper information ontology](https://docs.google.com/document/d/1_lKE8kAmFfi12_TBrDs1COMDPXDQGByKJZAaBwW5xVM/edit#!)
 - In technical document of a [generic/upper information ontology](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjuwpj60NjyAhWCRDABHQsnDEI4PBAWegQICxAB&url=https%3A%2F%2Fraw.githubusercontent.com%2FBFO-ontology%2FBFO%2Fv2.0%2FBFO2-Reference.docx&usg=AOvVaw2WP7Tmp8UQ5z32VaUb3TKy)
+- Page 4 of [PhD thesis](https://helda.helsinki.fi/handle/10138/169481) of Avril Styrman, "Economical Unification as a Method of Philosophical Analysis", Avril Styrman, Univ Helsinki
+
+
 
 ### In PowerPoint (PPT) presentations
 - Mentioned in [PPT presentaiton by NASA's Dr.D.A. O'Neil](https://drive.google.com/file/d/0Bz94QYIr9g9FSXNMb1NnUXlWOEk/view?resourcekey=0-US5R4C2c4ogfwSOUfV4aZA)

@@ -1,7 +1,7 @@
 # Rob's Written Works - List of Publications & other Works 
 This is an attempt at an exhaustive listing of [my](https://orcid.org/0000-0003-3835-7817) written works (whether published or not).
-- **TOPICS & TYPES**: conceptual analysis, concept development, ethics, philosophy, formal ontology, computational ontology dev., symbolic and temporal logic, spaceflight (generic, space policy,  terminology); & grant proposals, study/training guides, presentations, articles, poetry, etc.
-
+- **TOPICS**: conceptual analysis, concept development, ethics, philosophy, formal ontology, computational ontology dev., symbolic and temporal logic, spaceflight (generic, space policy,  terminology) 
+- **TYPES**: Articles in journals, conferences and workshops; Grant proposals, White papers; National standards; International Standards; Study/Training guides, Slide presentations, Poetry, etc.
 ## Standards documents
 - "Human Spaceflight: Spacecraft Architecture and Systems Engineering Ontology (ANSI/AIAA S-153-2021)"(https://arc.aiaa.org/doi/book/10.2514/4.106286)
 - Ask about contributions to ISO (International Standardization Organization) documents

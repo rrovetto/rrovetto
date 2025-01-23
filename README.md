@@ -29,7 +29,7 @@ The works described in or via these GitHub repositories are personal projects. U
 * [GoGetFunding page - for generic knowledge modeling](https://tinyurl.com/yyoo6z96)
 * [GoGetFunding page - for spaceflight knowledge modeling](https://www.patreon.com/user?u=6298778&fan_landing=true)
 
-©2023, Robert J. Rovetto. All right reserved. 
+©2025, Robert J. Rovetto. All right reserved. 
 All content on this GitHub account/profile, including each specific repository, is not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution is required. No warranty. No claims to completeness. All content, work and products are subject to revision. All content, work, products in this GitHub account is presented "AS IS". The copyright holder / author (Robert J. Rovetto) does not accept any liability and is not liable for any harm resulting from access or use of the content. By proceeding to view or use any associated pages or content in or via this GitHub account, you are accepting these terms.
 
 <!--

@@ -1,1 +1,1 @@
-Proof of ideation of AstroPortal concept
+Evidence of ideation of AstroPortal concept.
